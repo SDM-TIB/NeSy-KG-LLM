@@ -105,4 +105,3 @@ outputs/
 - finetuned_LLaMA_3_8B_baseline/    # LoRA adapter weights
 - finetuned_LLaMA_3_8B_with_rules/  # LoRA adapter weights
 ```
->>>>>>> 7d8fa6f (Initial commit)
