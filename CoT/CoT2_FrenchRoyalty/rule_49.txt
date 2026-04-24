@@ -1,0 +1,32 @@
+Rule 49:
+If name ?f AND successor ?f, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?b  name  ?f  ?a  successor  ?f
+
+Real Instances from Knowledge Graph (17 found):
+
+John III Duke of Brittany has successor John of Montfort, John of Montfort has name John of Montfort, John III Duke of Brittany has successor John of Montfort The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Charles the Bold, Mary of Burgundy Duchess of Cleves has name Mary of Burgundy, Charles the Bold has successor Mary of Burgundy The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Charles X, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Charles X has successor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Henri Count of Chambord, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Henri Count of Chambord has successor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Louis Philippe II Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe II Duke of Orl ans has successor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Pepin of Herstal has successor Charles Martel, Charles Martel has name Charles Martel, Pepin of Herstal has successor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Ragenfrid has successor Charles Martel, Charles Martel has name Charles Martel, Ragenfrid has successor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Theudoald has successor Charles Martel, Charles Martel has name Charles Martel, Theudoald has successor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Yaropolk I of Kiev has successor Vladimir the Great, Vladimir the Great has name Vladimir the Great, Yaropolk I of Kiev has successor Vladimir the Great The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Sviatoslav I has successor Vladimir the Great, Vladimir the Great has name Vladimir the Great, Sviatoslav I has successor Vladimir the Great The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Sviatopolk I of Kiev has successor Yaroslav the Wise, Yaroslav the Wise has name Yaroslav the Wise, Sviatopolk I of Kiev has successor Yaroslav the Wise The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+William X Duke of Aquitaine has successor Eleanor of Aquitaine, Eleanor of Aquitaine has name Eleanor of Aquitaine, William X Duke of Aquitaine has successor Eleanor of Aquitaine The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Desiderius has successor Charlemagne, Charlemagne has name Charlemagne, Desiderius has successor Charlemagne The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Golden Ambrosian Republic has successor Francesco I Sforza, Francesco I Sforza has name Francesco I Sforza, Golden Ambrosian Republic has successor Francesco I Sforza The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Amaury I de Montfort has successor Simon I de Montfort, Simon I de Montfort has name Simon I de Montfort, Amaury I de Montfort has successor Simon I de Montfort The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Adelaide of Italy has successor Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Adelaide of Italy has successor Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Ermengarde of Tuscany has successor Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Ermengarde of Tuscany has successor Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.7647
+- Rule Classification: POSITIVE (PCA Confidence 0.7647 >= threshold 0.5)
+- Standard Confidence: 0.7647
+- Head Coverage: 0.0367

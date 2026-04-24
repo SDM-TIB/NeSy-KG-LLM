@@ -1,0 +1,576 @@
+Rule 2:
+If father ?a, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?b  father  ?a
+
+Real Instances from Knowledge Graph (561 found):
+
+Aimery I Viscount of Ch tellerault, A nor de Ch tellerault has father Aimery I Viscount of Ch tellerault. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Fulk II Count of Anjou, Adelaide Blanche of Anjou has father Fulk II Count of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Conrad II Duke of Transjurane Burgundy, Adelaide of Auxerre born c. 870 has father Conrad II Duke of Transjurane Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Conrad II Duke of Transjurane Burgundy, Rudolph I of Burgundy has father Conrad II Duke of Transjurane Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Hugh IV Duke of Burgundy, Adelaide of Burgundy Duchess of Brabant has father Hugh IV Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Hugh IV Duke of Burgundy has successor Robert II Duke of Burgundy, Robert II Duke of Burgundy has father Hugh IV Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John VII Duke of Mecklenburg Schwerin, Adolphus Frederick I Duke of Mecklenburg Schwerin has father John VII Duke of Mecklenburg Schwerin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry Count of Portugal has successor Afonso I of Portugal, Afonso I of Portugal has father Henry Count of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Edward King of Portugal has successor Afonso V of Portugal, Afonso V of Portugal has father Edward King of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Edward King of Portugal, Eleanor of Portugal Holy Roman Empress has father Edward King of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Edward King of Portugal, Ferdinand Duke of Viseu has father Edward King of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Dedi III Margrave of Lusatia, Agnes of Rochlitz has father Dedi III Margrave of Lusatia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Stewart of Darnley, Alan Stewart of Darnley has father John Stewart of Darnley. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert Azzo I Margrave of Milan, Albert Azzo II Margrave of Milan has father Albert Azzo I Margrave of Milan. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Oberto II Margrave of Milan, Albert Azzo I Margrave of Milan has father Oberto II Margrave of Milan. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Werner II Count of Habsburg, Albert III Count of Habsburg has father Werner II Count of Habsburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert I Duke of Brunswic L neburg, Albert II Duke of Brunswic L neburg has father Albert I Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rudolf II Count of Habsburg, Albert IV Count of Habsburg has father Rudolf II Count of Habsburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto I Duke of Brunswic L neburg has successor Albert I Duke of Brunswic L neburg, Albert I Duke of Brunswic L neburg has father Otto I Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Richard Fitzalan 3rd Earl of Arundel, Alice Holland Countess of Kent has father Richard Fitzalan 3rd Earl of Arundel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Richard Fitzalan 3rd Earl of Arundel, Joan Fitzalan Countess of Hereford has father Richard Fitzalan 3rd Earl of Arundel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Guillaume de Montfort of Hainaut has successor Amaury I de Montfort, Amaury I de Montfort has father Guillaume de Montfort of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Peter of Courtenay Lord of Conches, Amicie de Courtenay has father Peter of Courtenay Lord of Conches. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Enno III Count of East Frisia, Anna Maria of Ostfriesland has father Enno III Count of East Frisia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Adolf Duke of Holstei Gottorp, Anna of Holstei Gottorp has father Adolf Duke of Holstei Gottorp. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip III of Spain, Anne of Austria has father Philip III of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip III of Spain has successor Philip IV of Spain, Philip IV of Spain has father Philip III of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Frederick I Count of Vaud mont, Antoine Count of Vaud mont has father Frederick I Count of Vaud mont. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis IV Duke of Modena, Archduchess Maria Theresa of Austria Este 1817 1886 has father Francis IV Duke of Modena. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin III Count of Flanders, Arnulf II Count of Flanders has father Baldwin III Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin II Margrave of Flanders, Arnulf I Count of Flanders has father Baldwin II Margrave of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Arnulf I Count of Flanders, Baldwin III Count of Flanders has father Arnulf I Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin II Count of Hainaut, Baldwin III Count of Hainaut has father Baldwin II Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin VI Count of Flanders, Baldwin II Count of Hainaut has father Baldwin VI Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin I Margrave of Flanders, Baldwin II Margrave of Flanders has father Baldwin I Margrave of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Arnulf II Count of Flanders, Baldwin IV Count of Flanders has father Arnulf II Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin III Count of Hainaut, Baldwin IV Count of Hainaut has father Baldwin III Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin V Count of Flanders, Baldwin VI Count of Flanders has father Baldwin V Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin IV Count of Hainaut, Baldwin V Count of Hainaut has father Baldwin IV Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Mastino II della Scala, Beatrice Regina della Scala has father Mastino II della Scala. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto V Margrave of Brandenburg Salzwedel, Beatrice of Brandenburg has father Otto V Margrave of Brandenburg Salzwedel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Nuno  lvares Pereira, Beatriz Pereira de Alvim has father Nuno  lvares Pereira. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ramon Berenguer III Count of Barcelona, Berengaria of Barcelona has father Ramon Berenguer III Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ramon Berenguer III Count of Barcelona has successor Ramon Berenguer IV Count of Barcelona, Ramon Berenguer IV Count of Barcelona has father Ramon Berenguer III Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ramon Borrell Count of Barcelona, Berenguer Ramon I Count of Barcelona has father Ramon Borrell Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Magnus II Duke of Brunswic L neburg, Bernard I Duke of Brunswic L neburg has father Magnus II Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Conrad I of Burgundy, Bertha of Burgundy has father Conrad I of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Berthold I of Istria, Berthold Duke of Merania has father Berthold I of Istria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Berthold II Count of Andechs, Berthold I of Istria has father Berthold II Count of Andechs. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charibert of Laon, Bertrada of Laon has father Charibert of Laon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John II Duke of Brittany, Blanche of Brittany has father John II Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John II Duke of Brittany, Marie of Brittany Countess of Saint Pol has father John II Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto IV Count of Burgundy, Blanche of Burgundy has father Otto IV Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto IV Count of Burgundy has successor Joan II Countess of Burgundy, Joan II Countess of Burgundy has father Otto IV Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Sunyer Count of Barcelona, Borrell II Count of Barcelona has father Sunyer Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James of Avesnes, Bouchard IV of Avesnes has father James of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Giuseppe Maria Buonaparte, Carlo Buonaparte has father Giuseppe Maria Buonaparte. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis the Stammerer has successor Carloman II, Carloman II has father Louis the Stammerer. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis the Stammerer has successor Louis III of France, Louis III of France has father Louis the Stammerer. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Gaston IV Count of Foix, Catherine of Foix Countess of Candale has father Gaston IV Count of Foix. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Gaston IV Count of Foix, Margaret of Foix has father Gaston IV Count of Foix. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John VI of Vend me, Catherine of Vend me has father John VI of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Count of Angoul me, Charles Count of Angoul me has father John Count of Angoul me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip V of Spain, Charles III of Spain has father Philip V of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip V of Spain, Maria Antonia Ferdinanda of Spain has father Philip V of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Nicholas Francis Duke of Lorraine, Charles V Duke of Lorraine has father Nicholas Francis Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip I of Castile has successor Charles V Holy Roman Emperor, Charles V Holy Roman Emperor has father Philip I of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Philip I of Castile, Ferdinand I Holy Roman Emperor has father Philip I of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip I Landgrave of Hesse, Christine of Hesse has father Philip I Landgrave of Hesse. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Giovanni di Bicci de Medici, Cosimo de Medici has father Giovanni di Bicci de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Giovanni di Bicci de Medici, Lorenzo the Elder has father Giovanni di Bicci de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Crato Count of Nassau Saarbr cken, Countess Caroline of Nassau Saarbr cken has father Louis Crato Count of Nassau Saarbr cken. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+George Louis I Count of Erbach Erbach, Countess Sophia Albertine of Erbach Erbach has father George Louis I Count of Erbach Erbach. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ranulf II of Aquitaine, Ebalus Duke of Aquitaine has father Ranulf II of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto I Count of Scheyern, Eckhard I Count of Scheyern has father Otto I Count of Scheyern. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Edward II of England has successor Edward III of England, Edward III of England has father Edward II of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Leuthard I of Paris, Engeltrude de F zensac has father Leuthard I of Paris. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Elias I Count of Maine, Ermengarde Countess of Maine has father Elias I Count of Maine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Fulk III Count of Anjou, Ermengarde of Anjou Duchess of Burgundy has father Fulk III Count of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Leopold III Duke of Austria, Ernest Duke of Austria has father Leopold III Duke of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry the Middle Duke of Brunswic L neburg, Ernest I Duke of Brunswic L neburg has father Henry the Middle Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Gabriel de Rochechouart de Mortemart, Fran oise Ath na s de Rochechouart Marquise de Montespan has father Gabriel de Rochechouart de Mortemart. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Constant d Aubign , Fran oise d Aubign  Marquise de Maintenon has father Constant d Aubign . [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Muzio Attendolo Sforza, Francesco I Sforza has father Muzio Attendolo Sforza. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John VIII Count of Vend me, Francis Count of Vend me has father John VIII Count of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John VIII Count of Vend me, Jeanne de Bourbon Duchess of Bourbon has father John VIII Count of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II of France, Francis Duke of Anjou has father Henry II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II of France has successor Francis II of France, Francis II of France has father Henry II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry II of France, Henry III of France has father Henry II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II of France, Margaret of Valois has father Henry II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ernest Duke of Austria has successor Frederick III Holy Roman Emperor, Frederick III Holy Roman Emperor has father Ernest Duke of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Antoine Count of Vaud mont, Frederick II Count of Vaud mont has father Antoine Count of Vaud mont. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Bernard I Duke of Brunswic L neburg, Frederick II Duke of Brunswic L neburg has father Bernard I Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John I Duke of Lorraine, Frederick I Count of Vaud mont has father John I Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Fulk I Count of Anjou, Fulk II Count of Anjou has father Fulk I Count of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francesco I Sforza, Galeazzo Maria Sforza has father Francesco I Sforza. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William the Younger Duke of Brunswic L neburg, George Duke of Brunswic Calenberg has father William the Younger Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rollo, Gerloc has father Rollo. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Bernard II Duke of Saxony, Gertrude of Saxony has father Bernard II Duke of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Giovanni il Popolano, Giovanni delle Bande Nere has father Giovanni il Popolano. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Averardo de Medici, Giovanni di Bicci de Medici has father Averardo de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Pierfrancesco the Elder, Giovanni il Popolano has father Pierfrancesco the Elder. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William I Count of Burgundy, Gisela of Burgundy Marchioness of Montferrat has father William I Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William I Count of Burgundy, Stephen I Count of Burgundy has father William I Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William I Count of Burgundy, Raymond of Burgundy has father William I Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Godfrey II Count of Louvain, Godfrey III Count of Louvain has father Godfrey II Count of Louvain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Godfrey I Count of Louvain, Godfrey II Count of Louvain has father Godfrey I Count of Louvain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II Count of Louvain, Godfrey I Count of Louvain has father Henry II Count of Louvain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Isambart, Hedwig of Bavaria has father Isambart. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Ferdinand Duke of Berry, Henri Count of Chambord has father Charles Ferdinand Duke of Berry. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II Duke of Brabant, Henry III Duke of Brabant has father Henry II Duke of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II Duke of Brabant, Matilda of Brabant Countess of Artois has father Henry II Duke of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Lambert II Count of Louvain, Henry II Count of Louvain has father Lambert II Count of Louvain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry I Duke of Brabant, Henry II Duke of Brabant has father Henry I Duke of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John of Gaunt has successor Henry IV of England, Henry IV of England has father John of Gaunt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Welf I Duke of Bavaria, Henry IX Duke of Bavaria has father Welf I Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald II Count of Champagne, Henry I Count of Champagne has father Theobald II Count of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald II Count of Champagne, Adela of Champagne has father Theobald II Count of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Godfrey III Count of Louvain, Henry I Duke of Brabant has father Godfrey III Count of Louvain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry IX Duke of Bavaria, Henry X Duke of Bavaria has father Henry IX Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert I Duke of Burgundy, Henry son of Robert I of Burgundy has father Robert I Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto V Duke of Brunswic L neburg, Henry the Middle Duke of Brunswic L neburg has father Otto V Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Gerold of Vinzgau, Hildegard of the Vinzgau has father Gerold of Vinzgau. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II of France, Hugh Magnus has father Robert II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II of France has successor Henry I of France, Henry I of France has father Robert II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Robert II of France, Robert I Duke of Burgundy has father Robert II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert I of France, Hugh the Great has father Robert I of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Amadeus II Count of Savoy has successor Humbert II Count of Savoy, Humbert II Count of Savoy has father Amadeus II Count of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Pedro Fern ndez de Castro, In s de Castro has father Pedro Fern ndez de Castro. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Valdemar I of Denmark, Ingeborg of Denmark Queen of France has father Valdemar I of Denmark. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Stephen III Duke of Bavaria, Isabeau of Bavaria has father Stephen III Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Afonso I Duke of Braganza, Isabel of Barcelos has father Afonso I Duke of Braganza. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William de Beauchamp 9th Earl of Warwick, Isabella de Beauchamp has father William de Beauchamp 9th Earl of Warwick. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Constable of Portugal, Isabella of Portugal Queen of Castile has father John Constable of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Constable of Portugal, Beatriz of Portugal Duchess of Viseu has father John Constable of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Patrick Hepburn 3rd Earl of Bothwell, James Hepburn 4th Earl of Bothwell has father Patrick Hepburn 3rd Earl of Bothwell. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alexander Stewart 4th High Steward of Scotland has successor James Stewart 5th High Steward of Scotland, James Stewart 5th High Steward of Scotland has father Alexander Stewart 4th High Steward of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Nicholas d Oisy Lord of Avesnes, James of Avesnes has father Nicholas d Oisy Lord of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Beaufort 1st Earl of Somerset, Joan Beaufort Queen of Scots has father John Beaufort 1st Earl of Somerset. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I Duke of Orl ans, John Count of Angoul me has father Louis I Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I Duke of Orl ans has successor Charles Duke of Orl ans, Charles Duke of Orl ans has father Louis I Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Stephen III of Auxonne, John Count of Chalon has father Stephen III of Auxonne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John I Count of Hainaut, John II Count of Holland has father John I Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Bouchard IV of Avesnes, John I Count of Hainaut has father Bouchard IV of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James I Count of La Marche, John I Count of La Marche has father James I Count of La Marche. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis X of France has successor John I of France, John I of France has father Louis X of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Alan Stewart of Darnley, John Stewart 1st Earl of Lennox has father Alan Stewart of Darnley. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Matthew Stewart 2nd Earl of Lennox, John Stewart 3rd Earl of Lennox has father Matthew Stewart 2nd Earl of Lennox. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alexander Stewart of Darnley died 1404, John Stewart of Darnley has father Alexander Stewart of Darnley died 1404. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Count of Vend me has successor John VIII Count of Vend me, John VIII Count of Vend me has father Louis Count of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Welf father of Judith, Judith of Bavaria died 843 has father Welf father of Judith. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Welf father of Judith, Hemma has father Welf father of Judith. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Lambert I Count of Louvain, Lambert II Count of Louvain has father Lambert I Count of Louvain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Reginar III Count of Hainaut, Lambert I Count of Louvain has father Reginar III Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert II Duke of Austria, Leopold III Duke of Austria has father Albert II Duke of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Brun I Count of Brunswick, Liudolf Margrave of Frisia has father Brun I Count of Brunswick. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Piero di Cosimo de Medici, Lorenzo de Medici has father Piero di Cosimo de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Piero the Unfortunate, Lorenzo de Medici Duke of Urbino has father Piero the Unfortunate. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles X, Louis Antoine Duke of Angoul me has father Charles X. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles X, Charles Ferdinand Duke of Berry has father Charles X. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John I Count of La Marche, Louis Count of Vend me has father John I Count of La Marche. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John I Count of La Marche, Charlotte of Bourbon Queen of Cyprus has father John I Count of La Marche. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto II Duke of Bavaria, Louis II Duke of Bavaria has father Otto II Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto I Duke of Bavaria, Louis I Duke of Bavaria has father Otto I Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Philippe II Duke of Orl ans has successor Louis Philippe I, Louis Philippe I has father Louis Philippe II Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Lothair of France has successor Louis V of France, Louis V of France has father Lothair of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis XVI, Louis XVII has father Louis XVI. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis XVI, Marie Th r se of France has father Louis XVI. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Dauphin of France son of Louis XV, Louis XVIII has father Louis Dauphin of France son of Louis XV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Dauphin of France son of Louis XV, Charles X has father Louis Dauphin of France son of Louis XV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Dauphin of France son of Louis XV, Louis XVI has father Louis Dauphin of France son of Louis XV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Nicolas Duke of Merc ur, Louise of Lorraine has father Nicolas Duke of Merc ur. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Herbert II Count of Vermandois, Luitgarde of Vermandois has father Herbert II Count of Vermandois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John III Count of Auvergne, Madeleine de La Tour d Auvergne has father John III Count of Auvergne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert Frederick Duke of Prussia, Magdalene Sibylle of Prussia has father Albert Frederick Duke of Prussia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Magnus I Duke of Brunswic L neburg, Magnus II Duke of Brunswic L neburg has father Magnus I Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert II Duke of Brunswic L neburg, Magnus I Duke of Brunswic L neburg has father Albert II Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II Count of Artois has successor Mahaut Countess of Artois, Mahaut Countess of Artois has father Robert II Count of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Guy IV Count of Saint Pol, Mahaut of Ch tillon has father Guy IV Count of Saint Pol. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Thomas Holland 2nd Earl of Kent, Margaret Holland Duchess of Clarence has father Thomas Holland 2nd Earl of Kent. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Thierry Count of Flanders, Margaret I Countess of Flanders has father Thierry Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James I of Scotland, Margaret Stewart Dauphine of France has father James I of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James I of Scotland, James II of Scotland has father James I of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip of Artois, Margaret of Artois has father Philip of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis of Baux, Margaret of Baux has father Francis of Baux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Guy Count of Flanders, Margaret of Flanders Duchess of Brabant has father Guy Count of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William I of Geneva, Margaret of Geneva has father William I of Geneva. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip Duke of Parma, Maria Luisa of Parma has father Philip Duke of Parma. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand I Holy Roman Emperor, Maria of Austria Duchess of J lich Cleves Berg has father Ferdinand I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand I Holy Roman Emperor has successor Maximilian II Holy Roman Emperor, Maximilian II Holy Roman Emperor has father Ferdinand I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ferdinand I Holy Roman Emperor, Joanna of Austria Grand Duchess of Tuscany has father Ferdinand I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand I Holy Roman Emperor, Archduchess Anna of Austria has father Ferdinand I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip of Swabia, Maria of Swabia has father Philip of Swabia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William IV Count of Ponthieu, Marie Countess of Ponthieu has father William IV Count of Ponthieu. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Victor Amadeus III of Sardinia, Marie Jos phine of Savoy has father Victor Amadeus III of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Victor Amadeus III of Sardinia, Maria Theresa of Savoy has father Victor Amadeus III of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Peter II Count of Saint Pol, Marie of Luxembourg Countess of Vend me has father Peter II Count of Saint Pol. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry VII Holy Roman Emperor, Marie of Luxembourg Queen of France has father Henry VII Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry VII Holy Roman Emperor has successor John of Bohemia, John of Bohemia has father Henry VII Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Humphrey de Bohun 7th Earl of Hereford, Mary de Bohun has father Humphrey de Bohun 7th Earl of Hereford. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert VII Lord of B thune, Matilda of B thune has father Robert VII Lord of B thune. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IV Holy Roman Emperor, Matilda of Bavaria Margravine of Meissen has father Louis IV Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IV Holy Roman Emperor, Stephen II Duke of Bavaria has father Louis IV Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Engelbert Duke of Carinthia, Matilda of Carinthia has father Engelbert Duke of Carinthia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Liudolf Margrave of Frisia, Matilda of Frisia has father Liudolf Margrave of Frisia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Hermann Billung, Matilda of Saxony countess of Flanders has father Hermann Billung. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Stewart 1st Earl of Lennox, Matthew Stewart 2nd Earl of Lennox has father John Stewart 1st Earl of Lennox. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John Stewart 3rd Earl of Lennox, Matthew Stewart 4th Earl of Lennox has father John Stewart 3rd Earl of Lennox. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Patrick de Chaworth Lord of Kidwelly, Maud Chaworth has father Patrick de Chaworth Lord of Kidwelly. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Napoleon has successor Napoleon II, Napoleon II has father Napoleon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Walter I Lord of Avesnes, Nicholas d Oisy Lord of Avesnes has father Walter I Lord of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Oberto I, Oberto II Margrave of Milan has father Oberto I. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Odo I Count of Blois, Odo II Count of Blois has father Odo I Count of Blois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald I Count of Blois, Odo I Count of Blois has father Theobald I Count of Blois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert the Strong, Odo of France has father Robert the Strong. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert the Strong, Robert I of France has father Robert the Strong. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Werner I Count of Klettgau, Otto II Count of Habsburg has father Werner I Count of Klettgau. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I Duke of Bavaria, Otto II Duke of Bavaria has father Louis I Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Hugh Count of Burgundy, Otto IV Count of Burgundy has father Hugh Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Eckhard I Count of Scheyern, Otto IV Count of Scheyern has father Eckhard I Count of Scheyern. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto IV Count of Scheyern, Otto I Duke of Bavaria has father Otto IV Count of Scheyern. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William of Winchester Lord of Lunenburg, Otto I Duke of Brunswic L neburg has father William of Winchester Lord of Lunenburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Liudolf Duke of Saxony, Otto I Duke of Saxony has father Liudolf Duke of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Frederick II Duke of Brunswic L neburg, Otto V Duke of Brunswic L neburg has father Frederick II Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Adalbert of Italy, Otto William Count of Burgundy has father Adalbert of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Maredudd ap Tudur, Owen Tudor has father Maredudd ap Tudur. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I Duke of Bourbon, Peter I Duke of Bourbon has father Louis I Duke of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I Duke of Bourbon, James I Count of La Marche has father Louis I Duke of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert of Courtenay Lord of Champignelles, Peter of Courtenay Lord of Conches has father Robert of Courtenay Lord of Champignelles. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip III of France, Philip IV of France has father Philip III of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip III of France, Louis Count of  vreux has father Philip III of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Count of Valois has successor Philip VI of France, Philip VI of France has father Charles Count of Valois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Charles Count of Valois, Isabella of Valois Duchess of Bourbon has father Charles Count of Valois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Count of Valois, Joan of Valois Countess of Hainaut has father Charles Count of Valois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Dauphin of France son of Louis XIV, Philip V of Spain has father Louis Dauphin of France son of Louis XIV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Dauphin of France son of Louis XIV, Louis Duke of Burgundy has father Louis Dauphin of France son of Louis XIV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis VI of France, Philip of France 1116 1131 has father Louis VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis VI of France, Robert I Count of Dreux has father Louis VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis VI of France has successor Louis VII of France, Louis VII of France has father Louis VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John II of France has successor Philip the Bold, Philip the Bold has father John II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John II of France, Marie of France Duchess of Bar has father John II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John II of France has successor Charles V of France, Charles V of France has father John II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John II of France, Louis I of Anjou has father John II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John the Fearless, Philip the Good has father John the Fearless. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John the Fearless, Mary of Burgundy Duchess of Cleves has father John the Fearless. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William I Count of Hainaut, Philippa of Hainault has father William I Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Lorenzo the Elder, Pierfrancesco the Elder has father Lorenzo the Elder. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Cosimo de Medici has successor Piero di Cosimo de Medici, Piero di Cosimo de Medici has father Cosimo de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Lorenzo de Medici has successor Piero the Unfortunate, Piero the Unfortunate has father Lorenzo de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ramon Berenguer II Count of Barcelona, Ramon Berenguer III Count of Barcelona has father Ramon Berenguer II Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ramon Berenguer I Count of Barcelona, Ramon Berenguer II Count of Barcelona has father Ramon Berenguer I Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Berenguer Ramon I Count of Barcelona, Ramon Berenguer I Count of Barcelona has father Berenguer Ramon I Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Borrell II Count of Barcelona, Ramon Borrell Count of Barcelona has father Borrell II Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto William Count of Burgundy, Reginald I Count of Burgundy has father Otto William Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Reginar II Count of Hainaut, Reginar III Count of Hainaut has father Reginar II Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Reginar Longneck, Reginar II Count of Hainaut has father Reginar Longneck. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Bivin of Gorze, Richard Duke of Burgundy has father Bivin of Gorze. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II Count of Hesbaye, Robert III of Worms has father Robert II Count of Hesbaye. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert III of Worms, Robert the Strong has father Robert III of Worms. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert III Count of Habsburg, Rudolf II Count of Habsburg has father Albert III Count of Habsburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Richard Duke of Burgundy, Rudolph of France has father Richard Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Amaury I de Montfort has successor Simon I de Montfort, Simon I de Montfort has father Amaury I de Montfort. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Augustus Duke of Saxe Weissenfels, Sophia of Saxe Weissenfels Princess of Anhalt Zerbst has father Augustus Duke of Saxe Weissenfels. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald III Count of Blois, Stephen Count of Blois has father Theobald III Count of Blois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Stephen II Duke of Bavaria, Stephen III Duke of Bavaria has father Stephen II Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Stephen II of Auxonne, Stephen III of Auxonne has father Stephen II of Auxonne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William III of M con, Stephen II of Auxonne has father William III of M con. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Wilfred the Hairy, Sunyer Count of Barcelona has father Wilfred the Hairy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Odo II Count of Blois, Theobald III Count of Blois has father Odo II Count of Blois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry I Count of Champagne, Theobald III Count of Champagne has father Henry I Count of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Stephen Count of Blois, Theobald II Count of Champagne has father Stephen Count of Blois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald the Elder, Theobald I Count of Blois has father Theobald the Elder. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James Stewart 5th High Steward of Scotland, Walter Stewart 6th High Steward of Scotland has father James Stewart 5th High Steward of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert Azzo II Margrave of Milan, Welf I Duke of Bavaria has father Albert Azzo II Margrave of Milan. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Otto II Count of Habsburg, Werner II Count of Habsburg has father Otto II Count of Habsburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Radbot of Klettgau, Werner I Count of Klettgau has father Radbot of Klettgau. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Sunifred Count of Barcelona, Wilfred the Hairy has father Sunifred Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ebalus Duke of Aquitaine, William III Duke of Aquitaine has father Ebalus Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Stephen I Count of Burgundy, William III of M con has father Stephen I Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William III Duke of Aquitaine, William IV Duke of Aquitaine has father William III Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William III Duke of Aquitaine, Adelaide of Aquitaine has father William III Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William VIII Duke of Aquitaine, William IX Duke of Aquitaine has father William VIII Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Reginald I Count of Burgundy, William I Count of Burgundy has father Reginald I Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John II Count of Holland, William I Count of Hainaut has father John II Count of Holland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William V Duke of Aquitaine, William VIII Duke of Aquitaine has father William V Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William IV Duke of Aquitaine, William V Duke of Aquitaine has father William IV Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry the Lion, William of Winchester Lord of Lunenburg has father Henry the Lion. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert III Count of Dreux, Yolande of Dreux Duchess of Burgundy has father Robert III Count of Dreux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry the Fowler, Gerberga of Saxony has father Henry the Fowler. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry the Fowler, Hedwig of Saxony has father Henry the Fowler. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Boso II of Italy, Boso the Elder has father Boso II of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis II Duke of Brittany has successor Anne of Brittany, Anne of Brittany has father Francis II Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis Rudolph Duke of Brunswic L neburg, Elisabeth Christine of Brunswic Wolfenb ttel has father Louis Rudolph Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip III of Navarre, Blanche of Navarre Queen of France has father Philip III of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfonso VIII of Castile, Blanche of Castile has father Alfonso VIII of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald of Arles, Hugh of Italy has father Theobald of Arles. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Maximilian I Holy Roman Emperor, Philip I of Castile has father Maximilian I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfonso XI of Castile, Henry II of Castile has father Alfonso XI of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis I of France, Henry II of France has father Francis I of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Edward III of England, John of Gaunt has father Edward III of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Arthur II Duke of Brittany, John of Montfort has father Arthur II Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theodoric II Duke of Lorraine has successor Simon I Duke of Lorraine, Simon I Duke of Lorraine has father Theodoric II Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Francis I Holy Roman Emperor, Marie Antoinette has father Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis I Holy Roman Emperor, Maria Carolina of Austria has father Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis I Holy Roman Emperor, Ferdinand Karl Archduke of Austria Este has father Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis I Holy Roman Emperor has successor Leopold II Holy Roman Emperor, Leopold II Holy Roman Emperor has father Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Charles VI of France, Catherine of Valois has father Charles VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles VI of France, Charles VII of France has father Charles VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ramon Berenguer IV Count of Provence, Eleanor of Provence has father Ramon Berenguer IV Count of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ramon Berenguer IV Count of Provence, Margaret of Provence has father Ramon Berenguer IV Count of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Odo III Duke of Burgundy has successor Hugh IV Duke of Burgundy, Hugh IV Duke of Burgundy has father Odo III Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Odo I Duke of Burgundy, Hugh II Duke of Burgundy has father Odo I Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Victor Amadeus I Duke of Savoy, Charles Emmanuel II Duke of Savoy has father Victor Amadeus I Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Afonso III of Portugal has successor Denis of Portugal, Denis of Portugal has father Afonso III of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Hugh III Duke of Burgundy has successor Odo III Duke of Burgundy, Odo III Duke of Burgundy has father Hugh III Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ramon Berenguer IV Count of Barcelona has successor Alfonso II of Aragon, Alfonso II of Aragon has father Ramon Berenguer IV Count of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ecgberht King of Wessex has successor  thelwulf King of Wessex,  thelwulf King of Wessex has father Ecgberht King of Wessex. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Leopold II Holy Roman Emperor, Francis II Holy Roman Emperor has father Leopold II Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip I of France has successor Louis VI of France, Louis VI of France has father Philip I of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Alfonso VII of Le n and Castile has successor Sancho III of Castile, Sancho III of Castile has father Alfonso VII of Le n and Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Alfonso VII of Le n and Castile, Constance of Castile has father Alfonso VII of Le n and Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfonso VII of Le n and Castile has successor Ferdinand II of Le n, Ferdinand II of Le n has father Alfonso VII of Le n and Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis Duke of Savoy, Philip II Duke of Savoy has father Louis Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Duke of Savoy, Charlotte of Savoy has father Louis Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Duke of Savoy, Bona of Savoy has father Louis Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Duke of Savoy, Margaret of Savoy Countess of Saint Pol has father Louis Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Frederick V Burgrave of Nuremberg, Elisabeth of Nuremberg has father Frederick V Burgrave of Nuremberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John II of Aragon has successor Ferdinand II of Aragon, Ferdinand II of Aragon has father John II of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ferdinand I of Aragon, Eleanor of Aragon Queen of Portugal has father Ferdinand I of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand I of Aragon, John II of Aragon has father Ferdinand I of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis Count of Vend me, Antoinette of Bourbon has father Francis Count of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis Count of Vend me, Charles Duke of Vend me has father Francis Count of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ansegisel, Pepin of Herstal has father Ansegisel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand II of Le n, Alfonso IX of Le n has father Ferdinand II of Le n. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Volodar Glebovich Prince of Minsk, Sophia of Minsk has father Volodar Glebovich Prince of Minsk. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis VIII of France has successor Louis IX of France, Louis IX of France has father Louis VIII of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Humbert II Count of Savoy, Adelaide of Maurienne has father Humbert II Count of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald II Duke of Lorraine, Frederick IV Duke of Lorraine has father Theobald II Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Duke of Vend me, Antoine of Navarre has father Charles Duke of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rudolph Duke of Lorraine, John I Duke of Lorraine has father Rudolph Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Duke of Orl ans 1703 1752 has successor Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has father Louis Duke of Orl ans 1703 1752. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Francis I Duke of Lorraine has successor Charles III Duke of Lorraine, Charles III Duke of Lorraine has father Francis I Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Sancho Alfonso, Eleanor of Alburquerque has father Sancho Alfonso. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Olof Sk tkonung, Ingegerd Olofsdotter of Sweden has father Olof Sk tkonung. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John IV Duke of Brittany, Richard Count of  tampes has father John IV Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Denis of Portugal, Afonso IV of Portugal has father Denis of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis XV, Louise  lisabeth of France has father Louis XV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis the German has successor Charles the Fat, Charles the Fat has father Louis the German. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Philippe II Duke of Orl ans, Charlotte Agla  d Orl ans has father Philippe II Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philippe II Duke of Orl ans has successor Louis Duke of Orl ans 1703 1752, Louis Duke of Orl ans 1703 1752 has father Philippe II Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John I of Aragon, Yolande of Aragon has father John I of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Vladimir the Great, Yaroslav the Wise has father Vladimir the Great. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IX of France, Agnes of France Duchess of Burgundy has father Louis IX of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IX of France has successor Philip III of France, Philip III of France has father Louis IX of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis IX of France, Robert Count of Clermont has father Louis IX of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry 3rd Earl of Lancaster, Eleanor of Lancaster has father Henry 3rd Earl of Lancaster. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rurik, Igor of Kiev has father Rurik. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Martel of Anjou, Clementia of Hungary has father Charles Martel of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Afonso I of Portugal has successor Sancho I of Portugal, Sancho I of Portugal has father Afonso I of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Simon I de Montfort, Bertrade of Montfort has father Simon I de Montfort. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II Duke of Burgundy, Joan the Lame has father Robert II Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II Duke of Burgundy, Margaret of Burgundy Queen of France has father Robert II Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert II Duke of Burgundy, Odo IV Duke of Burgundy has father Robert II Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John I of Castile, Ferdinand I of Aragon has father John I of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfonso II Count of Provence has successor Ramon Berenguer IV Count of Provence, Ramon Berenguer IV Count of Provence has father Alfonso II Count of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Francesco III d Este Duke of Modena, Maria Teresa Felicitas d Este has father Francesco III d Este Duke of Modena. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis I of the Two Sicilies, Marie Caroline of Bourbo Two Sicilies Duchess of Berry has father Francis I of the Two Sicilies. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis I of the Two Sicilies, Maria Christina of the Two Sicilies has father Francis I of the Two Sicilies. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Berengar II of Italy, Rozala of Italy has father Berengar II of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Christian III Count Palatine of Zweibr cken, Countess Palatine Caroline of Zweibr cken has father Christian III Count Palatine of Zweibr cken. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Peter I of Portugal, John I of Portugal has father Peter I of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Sviatoslav I has successor Vladimir the Great, Vladimir the Great has father Sviatoslav I. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Francis II Holy Roman Emperor, Marie Louise Duchess of Parma has father Francis II Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis XIV, Fran oise Marie de Bourbon has father Louis XIV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis XIV, Louis Dauphin of France son of Louis XIV has father Louis XIV. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Walter Stewart 6th High Steward of Scotland, Robert II of Scotland has father Walter Stewart 6th High Steward of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alexandre de Beauharnais, Hortense de Beauharnais has father Alexandre de Beauharnais. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Count of  vreux, Joan of  vreux has father Louis Count of  vreux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Count of  vreux, Philip III of Navarre has father Louis Count of  vreux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry V Count of Luxembourg has successor Henry VI Count of Luxembourg, Henry VI Count of Luxembourg has father Henry V Count of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+William I of Provence, Constance of Arles has father William I of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James III of Scotland, James IV of Scotland has father James III of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charlemagne has successor Louis the Pious, Louis the Pious has father Charlemagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry VII of England, Mary Tudor Queen of France has father Henry VII of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Theobald III Count of Champagne, Theobald I of Navarre has father Theobald III Count of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand III of Castile, Eleanor of Castile has father Ferdinand III of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand III of Castile, Alfonso X of Castile has father Ferdinand III of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+George Duke of Brunswic Calenberg, Ernest Augustus Elector of Hanover has father George Duke of Brunswic Calenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles II of Naples has successor Margaret Countess of Anjou, Margaret Countess of Anjou has father Charles II of Naples. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry IV of France has successor Louis XIII, Louis XIII has father Henry IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry IV of France, Henrietta Maria has father Henry IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry IV of France, Elisabeth of France 1602 1644 has father Henry IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IX Landgrave of Hesse Darmstadt, Princess Louise of Hesse Darmstadt 1757 1830 has father Louis IX Landgrave of Hesse Darmstadt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Pepin of Herstal has successor Charles Martel, Charles Martel has father Pepin of Herstal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Giovanni delle Bande Nere, Cosimo I de Medici Grand Duke of Tuscany has father Giovanni delle Bande Nere. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Frederick IV Duke of Lorraine, Rudolph Duke of Lorraine has father Frederick IV Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis XIII, Philippe I Duke of Orl ans has father Louis XIII. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis XIII has successor Louis XIV, Louis XIV has father Louis XIII. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Philippe I Duke of Orl ans, Philippe II Duke of Orl ans has father Philippe I Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philippe I Duke of Orl ans, Anne Marie d Orl ans has father Philippe I Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles V of France, Louis I Duke of Orl ans has father Charles V of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand Karl Archduke of Austria Este, Francis IV Duke of Modena has father Ferdinand Karl Archduke of Austria Este. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfonso X of Castile has successor Sancho IV of Castile, Sancho IV of Castile has father Alfonso X of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Rudolf I of Germany, Clemence of Austria has father Rudolf I of Germany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rudolf I of Germany, Judith of Habsburg has father Rudolf I of Germany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rudolf I of Germany, Albert I of Germany has father Rudolf I of Germany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Stephen V of Hungary, Mary of Hungary Queen of Naples has father Stephen V of Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Wenceslaus II of Bohemia, Elizabeth of Bohemia 1292 1330 has father Wenceslaus II of Bohemia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II of England, Eleanor of England Queen of Castile has father Henry II of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James V of Scotland has successor Mary Queen of Scots, Mary Queen of Scots has father James V of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Philip II Duke of Savoy, Louise of Savoy has father Philip II Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip II Duke of Savoy, Charles III Duke of Savoy has father Philip II Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Peter II of Courtenay, Yolanda of Courtenay has father Peter II of Courtenay. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert I Count of Artois, Blanche of Artois has father Robert I Count of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Manuel I of Portugal, Isabella of Portugal has father Manuel I of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Afonso V of Portugal, John II of Portugal has father Afonso V of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Frederick III Holy Roman Emperor has successor Maximilian I Holy Roman Emperor, Maximilian I Holy Roman Emperor has father Frederick III Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ingerman Count of Hesbaye, Ermengarde of Hesbaye has father Ingerman Count of Hesbaye. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Gerard Duke of Lorraine, Theodoric II Duke of Lorraine has father Gerard Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Andrew II of Hungary, Violant of Hungary has father Andrew II of Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Matthew Stewart 4th Earl of Lennox, Henry Stuart Lord Darnley has father Matthew Stewart 4th Earl of Lennox. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Edward the Elder, Eadgifu of Wessex has father Edward the Elder. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles IV of Spain, Mar a Isabella of Spain has father Charles IV of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Emmanuel II Duke of Savoy has successor Victor Amadeus II of Sardinia, Victor Amadeus II of Sardinia has father Charles Emmanuel II Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Bolko I the Strict, Beatrice of Silesia has father Bolko I the Strict. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Sancho IV of Castile has successor Ferdinand IV of Castile, Ferdinand IV of Castile has father Sancho IV of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John Frederick Duke of Brunswic Calenberg, Wilhelmine Amalie of Brunswick has father John Frederick Duke of Brunswic Calenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Thomas Count of Savoy, Beatrice of Savoy has father Thomas Count of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Frederick II Count of Vaud mont, Ren  II Duke of Lorraine has father Frederick II Count of Vaud mont. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Igor of Kiev, Sviatoslav I has father Igor of Kiev. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Dirk II Count of Holland has successor Arnulf Count of Holland, Arnulf Count of Holland has father Dirk II Count of Holland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Rupert King of the Romans, Margaret of the Palatinate has father Rupert King of the Romans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Antoine Duke of Montpensier, Princess Marie Isabelle of Orl ans has father Antoine Duke of Montpensier. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert II of Germany, Elizabeth of Austria 1436 1505 has father Albert II of Germany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Hugh of Tours, Adelaide of Tours has father Hugh of Tours. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Burkhard V Count of Hohenberg, Gertrude of Hohenberg has father Burkhard V Count of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I of Brzeg, Margaret of Brieg has father Louis I of Brzeg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Amadeus VIII Duke of Savoy has successor Louis Duke of Savoy, Louis Duke of Savoy has father Amadeus VIII Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Fulk King of Jerusalem, Sibylla of Anjou has father Fulk King of Jerusalem. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Fulk King of Jerusalem has successor Geoffrey Plantagenet Count of Anjou, Geoffrey Plantagenet Count of Anjou has father Fulk King of Jerusalem. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Cosimo I de Medici Grand Duke of Tuscany has successor Francesco I de Medici Grand Duke of Tuscany, Francesco I de Medici Grand Duke of Tuscany has father Cosimo I de Medici Grand Duke of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Augustus III of Poland, Maria Josepha of Saxony Dauphine of France has father Augustus III of Poland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Augustus III of Poland, Maria Amalia of Saxony has father Augustus III of Poland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip IV of France, Isabella of France has father Philip IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Odo I Count of Orl ans, Ermentrude of Orl ans has father Odo I Count of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ernest Frederick I Duke of Saxe Hildburghausen, Princess Elisabeth Albertine of Saxe Hildburghausen has father Ernest Frederick I Duke of Saxe Hildburghausen. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Victor Amadeus II of Sardinia, Marie Ad la de of Savoy has father Victor Amadeus II of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Victor Amadeus II of Sardinia has successor Charles Emmanuel III of Sardinia, Charles Emmanuel III of Sardinia has father Victor Amadeus II of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Frederick Louis Hereditary Grand Duke of Mecklenburg Schwerin, Duchess Helene of Mecklenburg Schwerin has father Frederick Louis Hereditary Grand Duke of Mecklenburg Schwerin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Adalbert I of Ivrea, Berengar II of Italy has father Adalbert I of Ivrea. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Sancho III of Castile has successor Alfonso VIII of Castile, Alfonso VIII of Castile has father Sancho III of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+William XII Count of Auvergne has successor Joan I Countess of Auvergne, Joan I Countess of Auvergne has father William XII Count of Auvergne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Edward the Exile, Saint Margaret of Scotland has father Edward the Exile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip VI of France has successor John II of France, John II of France has father Philip VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Albert I of Germany, Albert II Duke of Austria has father Albert I of Germany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Peter I Count of Saint Pol, Jacquetta of Luxembourg has father Peter I Count of Saint Pol. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfonso II of Aragon, Peter II of Aragon has father Alfonso II of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles VII of France has successor Louis XI, Louis XI has father Charles VII of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Floris I Count of Holland, Bertha of Holland has father Floris I Count of Holland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert Duke of Bar, Violant of Bar has father Robert Duke of Bar. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Antoine Duke of Lorraine, Francis I Duke of Lorraine has father Antoine Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Antoine Duke of Lorraine, Nicolas Duke of Merc ur has father Antoine Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Jean Marie de Bourbon Duke of Penthi vre, Louise Marie Ad la de de Bourbon Duchess of Orl ans has father Louis Jean Marie de Bourbon Duke of Penthi vre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis VII of France has successor Philip II of France, Philip II of France has father Louis VII of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis VII of France, Alys of France Countess of Vexin has father Louis VII of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Sigismund Holy Roman Emperor, Elizabeth of Luxembourg has father Sigismund Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Frederick II Margrave of Meissen, Elisabeth of Meissen has father Frederick II Margrave of Meissen. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Baldwin V Count of Hainaut, Isabella of Hainault has father Baldwin V Count of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John of Bohemia, Bonne of Luxembourg has father John of Bohemia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James I of Aragon, Isabella of Aragon Queen of France has father James I of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert III of Scotland has successor James I of Scotland, James I of Scotland has father Robert III of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Charles II Archduke of Austria, Margaret of Austria Queen of Spain has father Charles II Archduke of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles V Holy Roman Emperor, Maria of Austria Holy Roman Empress has father Charles V Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles V Holy Roman Emperor has successor Philip II of Spain, Philip II of Spain has father Charles V Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Odoardo Farnese Hereditary Prince of Parma, Elisabeth Farnese has father Odoardo Farnese Hereditary Prince of Parma. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry son of Robert I of Burgundy, Henry Count of Portugal has father Henry son of Robert I of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry son of Robert I of Burgundy, Odo I Duke of Burgundy has father Henry son of Robert I of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Gerard de Bouzonville, Gerard Duke of Lorraine has father Gerard de Bouzonville. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Vladislaus II of Hungary, Anne of Bohemia and Hungary has father Vladislaus II of Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Martel has successor Pepin the Short, Pepin the Short has father Charles Martel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Alfonso IX of Le n has successor Ferdinand III of Castile, Ferdinand III of Castile has father Alfonso IX of Le n. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Peter I Duke of Bourbon, Joanna of Bourbon has father Peter I Duke of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles III Duke of Lorraine, Francis II Duke of Lorraine has father Charles III Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ernest Augustus Elector of Hanover has successor George I of Great Britain, George I of Great Britain has father Ernest Augustus Elector of Hanover. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Robert Count of Clermont, Louis I Duke of Bourbon has father Robert Count of Clermont. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William IX Duke of Aquitaine, William X Duke of Aquitaine has father William IX Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Antoine of Navarre, Henry IV of France has father Antoine of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Richard Woodville 1st Earl Rivers, Elizabeth Woodville has father Richard Woodville 1st Earl Rivers. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert V Duke of Bavaria, Maria Anna of Bavaria born 1551 has father Albert V Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Peter I Duke of Brittany has successor John I Duke of Brittany, John I Duke of Brittany has father Peter I Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Gaston de Foix Count of Candale, Anne of Foix Candale has father Gaston de Foix Count of Candale. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip William Elector Palatine, Countess Palatine Dorothea Sophie of Neuburg has father Philip William Elector Palatine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ernest I Duke of Brunswic L neburg has successor William the Younger Duke of Brunswic L neburg, William the Younger Duke of Brunswic L neburg has father Ernest I Duke of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Joseph I Holy Roman Emperor, Maria Josepha of Austria has father Joseph I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand II of Aragon, Maria of Aragon Queen of Portugal has father Ferdinand II of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Leopold Duke of Lorraine has successor Francis I Holy Roman Emperor, Francis I Holy Roman Emperor has father Leopold Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Adolphus Frederick I Duke of Mecklenburg Schwerin, Adolphus Frederick II Duke of Mecklenburg Strelitz has father Adolphus Frederick I Duke of Mecklenburg Schwerin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Adolphus Frederick I Duke of Mecklenburg Schwerin, Anna Maria of Mecklenburg Schwerin has father Adolphus Frederick I Duke of Mecklenburg Schwerin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis II Duke of Bavaria, Louis IV Holy Roman Emperor has father Louis II Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+William X Duke of Aquitaine has successor Eleanor of Aquitaine, Eleanor of Aquitaine has father William X Duke of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Ferdinand Philippe Duke of Orl ans, Prince Philippe Count of Paris has father Ferdinand Philippe Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis I of Anjou has successor Louis II of Anjou, Louis II of Anjou has father Louis I of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Casimir IV Jagiellon, Barbara Jagiellon has father Casimir IV Jagiellon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Adolph I Duke of Cleves, Marie of Cleves Duchess of Orl ans has father Adolph I Duke of Cleves. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francesco I de Medici Grand Duke of Tuscany, Marie de Medici has father Francesco I de Medici Grand Duke of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis II of Anjou, Marie of Anjou has father Louis II of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip the Bold has successor John the Fearless, John the Fearless has father Philip the Bold. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Boso Margrave of Tuscany, Willa of Tuscany has father Boso Margrave of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Rudolph II of Burgundy, Conrad I of Burgundy has father Rudolph II of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Adolphus Frederick II Duke of Mecklenburg Strelitz, Duke Charles Louis Frederick of Mecklenburg has father Adolphus Frederick II Duke of Mecklenburg Strelitz. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Hugh of Italy has successor Lothair II of Italy, Lothair II of Italy has father Hugh of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+John King of England has successor Henry III of England, Henry III of England has father John King of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Charles II Duke of Lorraine, Isabella Duchess of Lorraine has father Charles II Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Dirk I Count of Holland has successor Dirk II Count of Holland, Dirk II Count of Holland has father Dirk I Count of Holland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Victor Emmanuel I of Sardinia, Maria Beatrice of Savoy has father Victor Emmanuel I of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Alfred the Great has successor Edward the Elder, Edward the Elder has father Alfred the Great. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Geoffrey II Count of G tinais, Fulk IV Count of Anjou has father Geoffrey II Count of G tinais. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis Bonaparte, Napoleon III has father Louis Bonaparte. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert IV Count of Habsburg, Rudolf I of Germany has father Albert IV Count of Habsburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Francis II Duke of Lorraine, Nicholas Francis Duke of Lorraine has father Francis II Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry II of Castile has successor John I of Castile, John I of Castile has father Henry II of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Hugh II Duke of Burgundy, Odo II Duke of Burgundy has father Hugh II Duke of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry III of England, Edward I of England has father Henry III of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles V Duke of Lorraine, Leopold Duke of Lorraine has father Charles V Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Berthold Duke of Merania, Agnes of Merania has father Berthold Duke of Merania. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Edward I of England, Edward II of England has father Edward I of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IV of France, Lothair of France has father Louis IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis IV of France, Matilda of France has father Louis IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ferdinand I of the Two Sicilies, Maria Theresa of Naples and Sicily has father Ferdinand I of the Two Sicilies. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Emmanuel III of Sardinia has successor Victor Amadeus III of Sardinia, Victor Amadeus III of Sardinia has father Charles Emmanuel III of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Hugh Capet, Robert II of France has father Hugh Capet. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip the Good, Charles the Bold has father Philip the Good. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+James II of Scotland, James III of Scotland has father James II of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Bartholomew de L Isle Bouchard, Dangereuse de l Isle Bouchard has father Bartholomew de L Isle Bouchard. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Louis the Pious has successor Louis the German, Louis the German has father Louis the Pious. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis the Pious, Charles the Bald has father Louis the Pious. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+George I of Great Britain has successor George II of Great Britain, George II of Great Britain has father George I of Great Britain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Louis XII, Claude of France has father Louis XII. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+ thelwulf King of Wessex, Alfred the Great has father  thelwulf King of Wessex. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Robert I Count of Dreux has successor Robert II Count of Dreux, Robert II Count of Dreux has father Robert I Count of Dreux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Malcolm III of Scotland, Matilda of Scotland has father Malcolm III of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ercole III d Este Duke of Modena, Maria Beatrice d Este Duchess of Massa has father Ercole III d Este Duke of Modena. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+George Duke of Saxony, Christine of Saxony has father George Duke of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Matthias II Duke of Lorraine, Frederick III Duke of Lorraine has father Matthias II Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Ealhmund of Kent, Ecgberht King of Wessex has father Ealhmund of Kent. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Duke of Orl ans has successor Louis XII, Louis XII has father Charles Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Charles I Gonzaga Duke of Mantua, Anne Gonzaga has father Charles I Gonzaga Duke of Mantua. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles Prince of Anhalt Zerbst, Princess Magdalena Augusta of Anhalt Zerbst has father Charles Prince of Anhalt Zerbst. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Philip II of France has successor Louis VIII of France, Louis VIII of France has father Philip II of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry V of England has successor Henry VI of England, Henry VI of England has father Henry V of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry X Duke of Bavaria, Henry the Lion has father Henry X Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John I of Portugal has successor Edward King of Portugal, Edward King of Portugal has father John I of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry IV of England has successor Henry V of England, Henry V of England has father Henry IV of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Charles III of Spain, Ferdinand I of the Two Sicilies has father Charles III of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Charles III Duke of Savoy, Emmanuel Philibert Duke of Savoy has father Charles III Duke of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+John George I Elector of Saxony, Sophia Eleonore of Saxony has father John George I Elector of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Sancho I of Portugal has successor Afonso II of Portugal, Afonso II of Portugal has father Sancho I of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: yes
+Henry I of England, Empress Matilda has father Henry I of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Afonso IV of Portugal, Peter I of Portugal has father Afonso IV of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Albert I Duke of Bavaria, Margaret of Bavaria has father Albert I Duke of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+Henry III Duke of Brabant, Marie of Brabant Queen of France has father Henry III Duke of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4904 < threshold 0.5) Answer: no
+
+Rule Statistics:
+- PCA Confidence: 0.4904
+- Rule Classification: NEGATIVE (PCA Confidence 0.4904 < threshold 0.5)
+- Standard Confidence: 0.1818
+- Head Coverage: 0.2881

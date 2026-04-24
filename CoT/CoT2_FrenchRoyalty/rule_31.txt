@@ -1,0 +1,32 @@
+Rule 31:
+If name ?f AND predecessor ?f, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?a  name  ?f  ?b  predecessor  ?f
+
+Real Instances from Knowledge Graph (17 found):
+
+John of Montfort has successor John IV Duke of Brittany, John of Montfort has name John of Montfort, John IV Duke of Brittany has predecessor John of Montfort The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Vladimir the Great has successor Yaropolk I of Kiev, Vladimir the Great has name Vladimir the Great, Yaropolk I of Kiev has predecessor Vladimir the Great The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Vladimir the Great has successor Sviatopolk I of Kiev, Vladimir the Great has name Vladimir the Great, Sviatopolk I of Kiev has predecessor Vladimir the Great The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Simon I de Montfort has successor Amaury II de Montfort, Simon I de Montfort has name Simon I de Montfort, Amaury II de Montfort has predecessor Simon I de Montfort The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Hugh Magnus has successor Henry I of France, Hugh Magnus has name Hugh Magnus, Henry I of France has predecessor Hugh Magnus The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Adelaide of Italy has successor Willa of Tuscany, Adelaide of Italy has name Adelaide of Italy, Willa of Tuscany has predecessor Adelaide of Italy The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Charles Martel, Charles Martel has name Charles Martel, Carloman mayor of the palace has predecessor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: no
+Charles Martel has successor Pepin the Short, Charles Martel has name Charles Martel, Pepin the Short has predecessor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Francesco I Sforza, Francesco I Sforza has name Francesco I Sforza, Galeazzo Maria Sforza has predecessor Francesco I Sforza The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Jacques Charles Dupont de l Eure has predecessor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Prince Philippe Count of Paris has predecessor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: no
+Yaroslav the Wise, Yaroslav the Wise has name Yaroslav the Wise, Iziaslav I of Kiev has predecessor Yaroslav the Wise The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: no
+Eleanor of Aquitaine has successor John King of England, Eleanor of Aquitaine has name Eleanor of Aquitaine, John King of England has predecessor Eleanor of Aquitaine The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Rurik has successor Oleg of Novgorod, Rurik has name Rurik, Oleg of Novgorod has predecessor Rurik The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Adelaide of Italy has predecessor Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: no
+Willa of Tuscany has successor Gerberga of M con, Willa of Tuscany has name Willa of Tuscany, Gerberga of M con has predecessor Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+Charlemagne has successor Louis the Pious, Charlemagne has name Charlemagne, Louis the Pious has predecessor Charlemagne The path is classified as POSITIVE (PCA Confidence 0.7333 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.7333
+- Rule Classification: POSITIVE (PCA Confidence 0.7333 >= threshold 0.5)
+- Standard Confidence: 0.6471
+- Head Coverage: 0.0311

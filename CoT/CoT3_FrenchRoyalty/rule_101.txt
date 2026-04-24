@@ -1,0 +1,32 @@
+Rule 101:
+If name ?f AND successor ?f, then predecessor ?b.
+
+Formal Rule:
+Head: ?a  predecessor  ?b
+Body: ?a  name  ?f  ?b  successor  ?f
+
+Real Instances from Knowledge Graph (17 found):
+
+John of Montfort has predecessor John III Duke of Brittany, John of Montfort has name John of Montfort, John III Duke of Brittany has successor John of Montfort. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Vladimir the Great has predecessor Yaropolk I of Kiev, Vladimir the Great has name Vladimir the Great, Yaropolk I of Kiev has successor Vladimir the Great. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Vladimir the Great has predecessor Sviatoslav I, Vladimir the Great has name Vladimir the Great, Sviatoslav I has successor Vladimir the Great. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Simon I de Montfort, Simon I de Montfort has name Simon I de Montfort, Amaury I de Montfort has successor Simon I de Montfort. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Charles Martel has predecessor Pepin of Herstal, Charles Martel has name Charles Martel, Pepin of Herstal has successor Charles Martel. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Charles Martel, Charles Martel has name Charles Martel, Ragenfrid has successor Charles Martel. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Charles Martel has predecessor Theudoald, Charles Martel has name Charles Martel, Theudoald has successor Charles Martel. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Francesco I Sforza has predecessor Golden Ambrosian Republic, Francesco I Sforza has name Francesco I Sforza, Golden Ambrosian Republic has successor Francesco I Sforza. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Charles X has successor Louis Philippe I. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Henri Count of Chambord has successor Louis Philippe I. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe II Duke of Orl ans has successor Louis Philippe I. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Yaroslav the Wise has predecessor Sviatopolk I of Kiev, Yaroslav the Wise has name Yaroslav the Wise, Sviatopolk I of Kiev has successor Yaroslav the Wise. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Eleanor of Aquitaine, Eleanor of Aquitaine has name Eleanor of Aquitaine, William X Duke of Aquitaine has successor Eleanor of Aquitaine. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Mary of Burgundy Duchess of Cleves, Mary of Burgundy Duchess of Cleves has name Mary of Burgundy, Charles the Bold has successor Mary of Burgundy. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: no
+Willa of Tuscany has predecessor Adelaide of Italy, Willa of Tuscany has name Willa of Tuscany, Adelaide of Italy has successor Willa of Tuscany. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Willa of Tuscany has predecessor Ermengarde of Tuscany, Willa of Tuscany has name Willa of Tuscany, Ermengarde of Tuscany has successor Willa of Tuscany. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+Charlemagne has predecessor Desiderius, Charlemagne has name Charlemagne, Desiderius has successor Charlemagne. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7692 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.7692
+- Rule Classification: POSITIVE (PCA Confidence 0.7692 >= threshold 0.5)
+- Standard Confidence: 0.5882
+- Head Coverage: 0.0279

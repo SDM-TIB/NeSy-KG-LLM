@@ -1,0 +1,110 @@
+Rule 39:
+If name ?f AND parent ?f, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?a  name  ?f  ?b  parent  ?f
+
+Real Instances from Knowledge Graph (95 found):
+
+Maredudd ap Tudur, Maredudd ap Tudur has name Maredudd ap Tudur, Owen Tudor has parent Maredudd ap Tudur. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Lorenzo the Elder, Lorenzo the Elder has name Lorenzo the Elder, Pierfrancesco the Elder has parent Lorenzo the Elder. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Marie de Medici, Marie de Medici has name Marie de Medici, Elisabeth of France 1602 1644 has parent Marie de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Marie de Medici, Marie de Medici has name Marie de Medici, Louis XIII has parent Marie de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Marie de Medici, Marie de Medici has name Marie de Medici, Henrietta Maria has parent Marie de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+John of Montfort has successor John IV Duke of Brittany, John of Montfort has name John of Montfort, John IV Duke of Brittany has parent John of Montfort. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: yes
+Blanche of Brittany, Blanche of Brittany has name Blanche of Brittany, Margaret of Artois has parent Blanche of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gertrude of Hohenberg, Gertrude of Hohenberg has name Gertrude of Hohenberg, Judith of Habsburg has parent Gertrude of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gertrude of Hohenberg, Gertrude of Hohenberg has name Gertrude of Hohenberg, Clemence of Austria has parent Gertrude of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gertrude of Hohenberg, Gertrude of Hohenberg has name Gertrude of Hohenberg, Albert I of Germany has parent Gertrude of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Hugh of Tours, Hugh of Tours has name Hugh of Tours, Adelaide of Tours has parent Hugh of Tours. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Beatrice of Brandenburg, Beatrice of Brandenburg has name Beatrice of Brandenburg, Beatrice of Silesia has parent Beatrice of Brandenburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Yolande of Aragon, Yolande of Aragon has name Yolande of Aragon, Marie of Anjou has parent Yolande of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Yolande of Aragon, Yolande of Aragon has name Yolande of Aragon, Ren  of Anjou has parent Yolande of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of the Palatinate, Margaret of the Palatinate has name Margaret of the Palatinate, Isabella Duchess of Lorraine has parent Margaret of the Palatinate. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Emma of Italy, Emma of Italy has name Emma of Italy, Louis V of France has parent Emma of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gerberga of Saxony, Gerberga of Saxony has name Gerberga of Saxony, Matilda of France has parent Gerberga of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gerberga of Saxony, Gerberga of Saxony has name Gerberga of Saxony, Lothair of France has parent Gerberga of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Christine of Hesse, Christine of Hesse has name Christine of Hesse, Anna of Holstei Gottorp has parent Christine of Hesse. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Louise of Savoy, Louise of Savoy has name Louise of Savoy, Francis I of France has parent Louise of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Louise of Savoy, Louise of Savoy has name Louise of Savoy, Margaret of Valois Angoul me has parent Louise of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gerloc, Gerloc has name Gerloc, William IV Duke of Aquitaine has parent Gerloc. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Adelaide Blanche of Anjou, Adelaide Blanche of Anjou has name Adelaide Blanche of Anjou, Constance of Arles has parent Adelaide Blanche of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Dangereuse de l Isle Bouchard, Dangereuse de l Isle Bouchard has name Dangereuse de l Isle Bouchard, A nor de Ch tellerault has parent Dangereuse de l Isle Bouchard. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Estrid of the Obotrites, Estrid of the Obotrites has name Estrid of the Obotrites, Ingegerd Olofsdotter of Sweden has parent Estrid of the Obotrites. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Gertrude of Saxony, Gertrude of Saxony has name Gertrude of Saxony, Bertha of Holland has parent Gertrude of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Bavaria, Margaret of Bavaria has name Margaret of Bavaria, Mary of Burgundy Duchess of Cleves has parent Margaret of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Bavaria, Margaret of Bavaria has name Margaret of Bavaria, Agnes of Burgundy Duchess of Bourbon has parent Margaret of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Bavaria, Margaret of Bavaria has name Margaret of Bavaria, Philip the Good has parent Margaret of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Vladimir the Great, Vladimir the Great has name Vladimir the Great, Yaroslav the Wise has parent Vladimir the Great. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Elisabeth Farnese, Elisabeth Farnese has name Elisabeth Farnese, Maria Antonia Ferdinanda of Spain has parent Elisabeth Farnese. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Brabant, Margaret of Brabant has name Margaret of Brabant, John of Bohemia has parent Margaret of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Brabant, Margaret of Brabant has name Margaret of Brabant, Marie of Luxembourg Queen of France has parent Margaret of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Bertha of Burgundy, Bertha of Burgundy has name Bertha of Burgundy, Odo II Count of Blois has parent Bertha of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Rudolph I of Burgundy, Rudolph I of Burgundy has name Rudolph I of Burgundy, Willa of Burgundy has parent Rudolph I of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Taddea Visconti, Taddea Visconti has name Taddea Visconti, Isabeau of Bavaria has parent Taddea Visconti. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Rotrude of Hesbaye, Rotrude of Hesbaye has name Rotrude of Hesbaye, Pepin the Short has parent Rotrude of Hesbaye. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Beatrice of Savoy, Beatrice of Savoy has name Beatrice of Savoy, Margaret of Provence has parent Beatrice of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Beatrice of Savoy, Beatrice of Savoy has name Beatrice of Savoy, Eleanor of Provence has parent Beatrice of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Matilda of Carinthia, Matilda of Carinthia has name Matilda of Carinthia, Henry I Count of Champagne has parent Matilda of Carinthia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Simon I de Montfort, Simon I de Montfort has name Simon I de Montfort, Bertrade of Montfort has parent Simon I de Montfort. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Isabella de Beauchamp, Isabella de Beauchamp has name Isabella de Beauchamp, Maud Chaworth has parent Isabella de Beauchamp. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Eadgifu of Wessex, Eadgifu of Wessex has name Eadgifu of Wessex, Louis IV of France has parent Eadgifu of Wessex. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Charlotte of Savoy, Charlotte of Savoy has name Charlotte of Savoy, Charles VIII of France has parent Charlotte of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Elizabeth of Luxembourg, Elizabeth of Luxembourg has name Elizabeth of Luxembourg, Elizabeth of Austria 1436 1505 has parent Elizabeth of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Sophia of Minsk, Sophia of Minsk has name Sophia of Minsk, Ingeborg of Denmark Queen of France has parent Sophia of Minsk. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Maria Christina of the Two Sicilies, Maria Christina of the Two Sicilies has name Maria Christina of the Two Sicilies, Infanta Luisa Fernanda Duchess of Montpensier has parent Maria Christina of the Two Sicilies. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Ermentrude of Orl ans, Ermentrude of Orl ans has name Ermentrude of Orl ans, Louis the Stammerer has parent Ermentrude of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Rozala of Italy, Rozala of Italy has name Rozala of Italy, Baldwin IV Count of Flanders has parent Rozala of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Agnes of Rochlitz, Agnes of Rochlitz has name Agnes of Rochlitz, Agnes of Merania has parent Agnes of Rochlitz. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Robert the Strong, Robert the Strong has name Robert the Strong, Odo of France has parent Robert the Strong. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Constance of Castile, Constance of Castile has name Constance of Castile, Alys of France Countess of Vexin has parent Constance of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Carlo Buonaparte, Carlo Buonaparte has name Carlo Buonaparte, Napoleon has parent Carlo Buonaparte. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Carlo Buonaparte, Carlo Buonaparte has name Carlo Buonaparte, Louis Bonaparte has parent Carlo Buonaparte. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Eleanor of Alburquerque, Eleanor of Alburquerque has name Eleanor of Alburquerque, John II of Aragon has parent Eleanor of Alburquerque. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Blanche of Artois, Blanche of Artois has name Blanche of Artois, Joan I of Navarre has parent Blanche of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Matilda of B thune, Matilda of B thune has name Matilda of B thune, Margaret of Flanders Duchess of Brabant has parent Matilda of B thune. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Maria Amalia of Saxony, Maria Amalia of Saxony has name Maria Amalia of Saxony, Maria Luisa of Spain has parent Maria Amalia of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Hortense de Beauharnais, Hortense de Beauharnais has name Hortense de Beauharnais, Napoleon III has parent Hortense de Beauharnais. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Adelaide of Italy, Adelaide of Italy has name Adelaide of Italy, Emma of Italy has parent Adelaide of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Matilda of France, Matilda of France has name Matilda of France, Bertha of Burgundy has parent Matilda of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Joan the Lame, Joan the Lame has name Joan the Lame, John II of France has parent Joan the Lame. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Baux, Margaret of Baux has name Margaret of Baux, Jacquetta of Luxembourg has parent Margaret of Baux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Letizia Bonaparte, Letizia Bonaparte has name Letizia Bonaparte, Louis Bonaparte has parent Letizia Bonaparte. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Letizia Bonaparte, Letizia Bonaparte has name Letizia Bonaparte, Napoleon has parent Letizia Bonaparte. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Beatrice of England, Beatrice of England has name Beatrice of England, Arthur II Duke of Brittany has parent Beatrice of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Beatrice of England, Beatrice of England has name Beatrice of England, Marie of Brittany Countess of Saint Pol has parent Beatrice of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Luitgarde of Vermandois, Luitgarde of Vermandois has name Luitgarde of Vermandois, Odo I Count of Blois has parent Luitgarde of Vermandois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Maria Antonia Ferdinanda of Spain, Maria Antonia Ferdinanda of Spain has name Maria Antonia Ferdinanda of Spain, Marie Jos phine of Savoy has parent Maria Antonia Ferdinanda of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Charles Martel has successor Pepin the Short, Charles Martel has name Charles Martel, Pepin the Short has parent Charles Martel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: yes
+Maria Luisa of Spain, Maria Luisa of Spain has name Maria Luisa of Spain, Archduchess Maria Clementina of Austria has parent Maria Luisa of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Francesco I Sforza, Francesco I Sforza has name Francesco I Sforza, Galeazzo Maria Sforza has parent Francesco I Sforza. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Margaret of Artois, Margaret of Artois has name Margaret of Artois, Philip III of Navarre has parent Margaret of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Adelaide of Maurienne, Adelaide of Maurienne has name Adelaide of Maurienne, Philip of France 1116 1131 has parent Adelaide of Maurienne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Adelaide of Maurienne, Adelaide of Maurienne has name Adelaide of Maurienne, Louis VII of France has parent Adelaide of Maurienne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Maria Beatrice of Savoy, Maria Beatrice of Savoy has name Maria Beatrice of Savoy, Archduchess Maria Theresa of Austria Este 1817 1886 has parent Maria Beatrice of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Alpaida, Alpaida has name Alpaida, Charles Martel has parent Alpaida. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Anna of Holstei Gottorp, Anna of Holstei Gottorp has name Anna of Holstei Gottorp, Anna Maria of Ostfriesland has parent Anna of Holstei Gottorp. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Antoine Duke of Montpensier has parent Louis Philippe I. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Ferdinand Philippe Duke of Orl ans has parent Louis Philippe I. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Isabella of Portugal Queen of Castile, Isabella of Portugal Queen of Castile has name Isabella of Portugal, Philip II of Spain has parent Isabella of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Isabella of Portugal Queen of Castile, Isabella of Portugal Queen of Castile has name Isabella of Portugal, Maria of Austria Holy Roman Empress has parent Isabella of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Constance of Arles, Constance of Arles has name Constance of Arles, Henry I of France has parent Constance of Arles. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Constance of Arles, Constance of Arles has name Constance of Arles, Robert I Duke of Burgundy has parent Constance of Arles. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Yaroslav the Wise, Yaroslav the Wise has name Yaroslav the Wise, Anne of Kiev has parent Yaroslav the Wise. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Eleanor of Aquitaine has successor John King of England, Eleanor of Aquitaine has name Eleanor of Aquitaine, John King of England has parent Eleanor of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: yes
+Rurik, Rurik has name Rurik, Igor of Kiev has parent Rurik. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Mary of Burgundy Duchess of Cleves, Mary of Burgundy Duchess of Cleves has name Mary of Burgundy, Philip I of Castile has parent Mary of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Mahaut of Ch tillon, Mahaut of Ch tillon has name Mahaut of Ch tillon, Isabella of Valois Duchess of Bourbon has parent Mahaut of Ch tillon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Rozala of Italy has parent Willa of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Bouchard IV of Avesnes, Bouchard IV of Avesnes has name Bouchard IV of Avesnes, John I Count of Hainaut has parent Bouchard IV of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Reginar Longneck, Reginar Longneck has name Reginar Longneck, Reginar II Count of Hainaut has parent Reginar Longneck. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+James of Avesnes, James of Avesnes has name James of Avesnes, Bouchard IV of Avesnes has parent James of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+Charlemagne has successor Louis the Pious, Charlemagne has name Charlemagne, Louis the Pious has parent Charlemagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: yes
+Engeltrude de F zensac, Engeltrude de F zensac has name Engeltrude de F zensac, Ermentrude of Orl ans has parent Engeltrude de F zensac. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.3333 < threshold 0.5) Answer: no
+
+Rule Statistics:
+- PCA Confidence: 0.3333
+- Rule Classification: NEGATIVE (PCA Confidence 0.3333 < threshold 0.5)
+- Standard Confidence: 0.0421
+- Head Coverage: 0.0113

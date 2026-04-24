@@ -1,0 +1,26 @@
+Rule 35:
+If married to ?a AND parent ?f, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?f  marriedTo  ?a  ?b  parent  ?f
+
+Real Instances from Knowledge Graph (11 found):
+
+Francis II Holy Roman Emperor, Maria Theresa of Naples and Sicily has married to Francis II Holy Roman Emperor, Marie Louise Duchess of Parma has parent Maria Theresa of Naples and Sicily. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Alpaida, Pepin of Herstal has married to Alpaida, Charles Martel has parent Pepin of Herstal. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Adelaide Countess of Burgundy has successor Otto IV Count of Burgundy, Hugh Count of Burgundy has married to Adelaide Countess of Burgundy, Otto IV Count of Burgundy has parent Hugh Count of Burgundy. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: yes
+Pepin of Herstal has successor Charles Martel, Alpaida has married to Pepin of Herstal, Charles Martel has parent Alpaida. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: yes
+Henry Count of Portugal has successor Afonso I of Portugal, Theresa Countess of Portugal has married to Henry Count of Portugal, Afonso I of Portugal has parent Theresa Countess of Portugal. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: yes
+Maria Amalia of Saxony, Elisabeth Farnese has married to Maria Amalia of Saxony, Maria Antonia Ferdinanda of Spain has parent Elisabeth Farnese. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Duke Charles Louis Frederick of Mecklenburg, Princess Elisabeth Albertine of Saxe Hildburghausen has married to Duke Charles Louis Frederick of Mecklenburg, Charlotte of Mecklenburg Strelitz has parent Princess Elisabeth Albertine of Saxe Hildburghausen. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Elisabeth Farnese, Maria Amalia of Saxony has married to Elisabeth Farnese, Maria Luisa of Spain has parent Maria Amalia of Saxony. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Princess Elisabeth Albertine of Saxe Hildburghausen, Duke Charles Louis Frederick of Mecklenburg has married to Princess Elisabeth Albertine of Saxe Hildburghausen, Charlotte of Mecklenburg Strelitz has parent Duke Charles Louis Frederick of Mecklenburg. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Hugh Count of Burgundy, Adelaide Countess of Burgundy has married to Hugh Count of Burgundy, Otto IV Count of Burgundy has parent Adelaide Countess of Burgundy. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: no
+Theresa Countess of Portugal has successor Afonso I of Portugal, Henry Count of Portugal has married to Theresa Countess of Portugal, Afonso I of Portugal has parent Henry Count of Portugal. [VALID] The path is classified as POSITIVE (PCA Confidence 0.8000 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.8000
+- Rule Classification: POSITIVE (PCA Confidence 0.8000 >= threshold 0.5)
+- Standard Confidence: 0.3636
+- Head Coverage: 0.0113

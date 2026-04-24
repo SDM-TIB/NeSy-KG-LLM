@@ -1,0 +1,94 @@
+Rule 292:
+If spouse ?b AND name ?f, then spouse ?b.
+
+Formal Rule:
+Head: ?a  hasSpouse  ?b
+Body: ?f  hasSpouse  ?b  ?a  name  ?f
+
+Real Instances from Knowledge Graph (79 found):
+
+Lorenzo the Elder has spouse Yes, Lorenzo the Elder has spouse Yes, Lorenzo the Elder has name Lorenzo the Elder The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Marie de Medici has spouse Yes, Marie de Medici has spouse Yes, Marie de Medici has name Marie de Medici The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Matilda of Frisia has spouse Yes, Matilda of Frisia has spouse Yes, Matilda of Frisia has name Matilda of Frisia The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Blanche of Burgundy has spouse Yes, Blanche of Burgundy has spouse Yes, Blanche of Burgundy has name Blanche of Burgundy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Blanche of Brittany has spouse Yes, Blanche of Brittany has spouse Yes, Blanche of Brittany has name Blanche of Brittany The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Gertrude of Hohenberg has spouse Yes, Gertrude of Hohenberg has spouse Yes, Gertrude of Hohenberg has name Gertrude of Hohenberg The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Hugh of Tours has spouse No, Hugh of Tours has spouse No, Hugh of Tours has name Hugh of Tours The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Beatrice of Brandenburg has spouse Yes, Beatrice of Brandenburg has spouse Yes, Beatrice of Brandenburg has name Beatrice of Brandenburg The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Beatrice of Portugal died 1381 has spouse Yes, Beatrice of Portugal has spouse Yes, Beatrice of Portugal died 1381 has name Beatrice of Portugal The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Mary of Guise has spouse Yes, Mary of Guise has spouse Yes, Mary of Guise has name Mary of Guise The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Margaret of the Palatinate has spouse Yes, Margaret of the Palatinate has spouse Yes, Margaret of the Palatinate has name Margaret of the Palatinate The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Emma of Italy has spouse Yes, Emma of Italy has spouse Yes, Emma of Italy has name Emma of Italy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Gerberga of Saxony has spouse Yes, Gerberga of Saxony has spouse Yes, Gerberga of Saxony has name Gerberga of Saxony The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Christine of Hesse has spouse Yes, Christine of Hesse has spouse Yes, Christine of Hesse has name Christine of Hesse The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Louise of Savoy has spouse Yes, Louise of Savoy has spouse Yes, Louise of Savoy has name Louise of Savoy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Gerloc has spouse Yes, Gerloc has spouse Yes, Gerloc has name Gerloc The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Adelaide Blanche of Anjou has spouse Yes, Adelaide Blanche of Anjou has spouse Yes, Adelaide Blanche of Anjou has name Adelaide Blanche of Anjou The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Estrid of the Obotrites has spouse Yes, Estrid of the Obotrites has spouse Yes, Estrid of the Obotrites has name Estrid of the Obotrites The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Margaret of Bavaria has spouse Yes, Margaret of Bavaria has spouse Yes, Margaret of Bavaria has name Margaret of Bavaria The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Elisabeth Farnese has spouse Yes, Elisabeth Farnese has spouse Yes, Elisabeth Farnese has name Elisabeth Farnese The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Margaret of Brabant has spouse Yes, Margaret of Brabant has spouse Yes, Margaret of Brabant has name Margaret of Brabant The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Elizabeth the Cuman has spouse Yes, Elizabeth the Cuman has spouse Yes, Elizabeth the Cuman has name Elizabeth the Cuman The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Anna Maria of Mecklenburg Schwerin has spouse Yes, Anna Maria of Mecklenburg Schwerin has spouse Yes, Anna Maria of Mecklenburg Schwerin has name Anna Maria of Mecklenburg Schwerin The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Rudolph I of Burgundy has spouse Yes, Rudolph I of Burgundy has spouse Yes, Rudolph I of Burgundy has name Rudolph I of Burgundy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Taddea Visconti has spouse Yes, Taddea Visconti has spouse Yes, Taddea Visconti has name Taddea Visconti The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Rotrude of Hesbaye has spouse Yes, Rotrude of Hesbaye has spouse Yes, Rotrude of Hesbaye has name Rotrude of Hesbaye The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Beatrice of Savoy has spouse Yes, Beatrice of Savoy has spouse Yes, Beatrice of Savoy has name Beatrice of Savoy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Charles the Bold has spouse Yes, Charles the Bold has spouse Yes, Charles the Bold has name Charles the Bold The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Margaret of Foix has spouse Yes, Margaret of Foix has spouse Yes, Margaret of Foix has name Margaret of Foix The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Bertrada of Laon has spouse Yes, Bertrada of Laon has spouse Yes, Bertrada of Laon has name Bertrada of Laon The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Beatriz Pereira de Alvim has spouse Yes, Beatriz Pereira de Alvim has spouse Yes, Beatriz Pereira de Alvim has name Beatriz Pereira de Alvim The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Simon I de Montfort has spouse No, Simon I de Montfort has spouse No, Simon I de Montfort has name Simon I de Montfort The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Isabella de Beauchamp has spouse Yes, Isabella de Beauchamp has spouse Yes, Isabella de Beauchamp has name Isabella de Beauchamp The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Eadgifu of Wessex has spouse Yes, Eadgifu of Wessex has spouse Yes, Eadgifu of Wessex has name Eadgifu of Wessex The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Charlotte of Savoy has spouse Yes, Charlotte of Savoy has spouse Yes, Charlotte of Savoy has name Charlotte of Savoy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Elizabeth of Luxembourg has spouse Yes, Elizabeth of Luxembourg has spouse Yes, Elizabeth of Luxembourg has name Elizabeth of Luxembourg The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Th odrate of Troyes has spouse Yes, Th odrate of Troyes has spouse Yes, Th odrate of Troyes has name Th odrate of Troyes The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Sophia of Minsk has spouse Yes, Sophia of Minsk has spouse Yes, Sophia of Minsk has name Sophia of Minsk The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Maria Christina of the Two Sicilies has spouse Yes, Maria Christina of the Two Sicilies has spouse Yes, Maria Christina of the Two Sicilies has name Maria Christina of the Two Sicilies The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Violant of Hungary has spouse Yes, Violant of Hungary has spouse Yes, Violant of Hungary has name Violant of Hungary The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Rozala of Italy has spouse Yes, Rozala of Italy has spouse Yes, Rozala of Italy has name Rozala of Italy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Hugh Magnus has spouse No, Hugh Magnus has spouse No, Hugh Magnus has name Hugh Magnus The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Robert the Strong has spouse Yes, Robert the Strong has spouse Yes, Robert the Strong has name Robert the Strong The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Constance of Castile has spouse Yes, Constance of Castile has spouse Yes, Constance of Castile has name Constance of Castile The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Eleanor of Alburquerque has spouse Yes, Eleanor of Alburquerque has spouse Yes, Eleanor of Alburquerque has name Eleanor of Alburquerque The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Blanche of Artois has spouse Yes, Blanche of Artois has spouse Yes, Blanche of Artois has name Blanche of Artois The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Adelaide of Tours has spouse Yes, Adelaide of Tours has spouse Yes, Adelaide of Tours has name Adelaide of Tours The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Maria Amalia of Saxony has spouse Yes, Maria Amalia of Saxony has spouse Yes, Maria Amalia of Saxony has name Maria Amalia of Saxony The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Hortense de Beauharnais has spouse Yes, Hortense de Beauharnais has spouse Yes, Hortense de Beauharnais has name Hortense de Beauharnais The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Gisela of Burgundy Marchioness of Montferrat, Gisela of Burgundy has spouse No, Gisela of Burgundy Marchioness of Montferrat has name Gisela of Burgundy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: no
+Matilda of France has spouse Yes, Matilda of France has spouse Yes, Matilda of France has name Matilda of France The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Joan the Lame has spouse Yes, Joan the Lame has spouse Yes, Joan the Lame has name Joan the Lame The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Margaret of Baux has spouse No, Margaret of Baux has spouse No, Margaret of Baux has name Margaret of Baux The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Barbara of Cilli has spouse Yes, Barbara of Cilli has spouse Yes, Barbara of Cilli has name Barbara of Cilli The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Luitgarde of Vermandois has spouse Yes, Luitgarde of Vermandois has spouse Yes, Luitgarde of Vermandois has name Luitgarde of Vermandois The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Maria Antonia Ferdinanda of Spain has spouse Yes, Maria Antonia Ferdinanda of Spain has spouse Yes, Maria Antonia Ferdinanda of Spain has name Maria Antonia Ferdinanda of Spain The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Welf I Duke of Bavaria, Welf I has spouse No, Welf I Duke of Bavaria has name Welf I The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: no
+Welf father of Judith, Welf I has spouse No, Welf father of Judith has name Welf I The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: no
+Louise of Lorraine has spouse Yes, Louise of Lorraine has spouse Yes, Louise of Lorraine has name Louise of Lorraine The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Salomea of Berg has spouse No, Salomea of Berg has spouse No, Salomea of Berg has name Salomea of Berg The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Francesco I Sforza has spouse Yes, Francesco I Sforza has spouse Yes, Francesco I Sforza has name Francesco I Sforza The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Margaret of Artois has spouse Yes, Margaret of Artois has spouse Yes, Margaret of Artois has name Margaret of Artois The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Adelaide of Maurienne has spouse Yes, Adelaide of Maurienne has spouse Yes, Adelaide of Maurienne has name Adelaide of Maurienne The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Maria Beatrice of Savoy has spouse Yes, Maria Beatrice of Savoy has spouse Yes, Maria Beatrice of Savoy has name Maria Beatrice of Savoy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Alpaida has spouse Yes, Alpaida has spouse Yes, Alpaida has name Alpaida The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Isabella of Valois Duchess of Bourbon has spouse Yes, Isabella of Valois has spouse Yes, Isabella of Valois Duchess of Bourbon has name Isabella of Valois The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Anna of Holstei Gottorp has spouse Yes, Anna of Holstei Gottorp has spouse Yes, Anna of Holstei Gottorp has name Anna of Holstei Gottorp The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Louis Philippe I Duke of Orl ans has spouse Yes, Louis Philippe I has spouse Yes, Louis Philippe I Duke of Orl ans has name Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Constance of Arles has spouse Yes, Constance of Arles has spouse Yes, Constance of Arles has name Constance of Arles The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Yaroslav the Wise has spouse Yes, Yaroslav the Wise has spouse Yes, Yaroslav the Wise has name Yaroslav the Wise The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Rurik has spouse No, Rurik has spouse No, Rurik has name Rurik The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Mary of Burgundy Duchess of Cleves, Mary of Burgundy has spouse Yes, Mary of Burgundy Duchess of Cleves has name Mary of Burgundy The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: no
+Willa of Tuscany has spouse Yes, Willa of Tuscany has spouse Yes, Willa of Tuscany has name Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Pierfrancesco the Elder has spouse No, Pierfrancesco the Elder has spouse No, Pierfrancesco the Elder has name Pierfrancesco the Elder The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Bouchard IV of Avesnes has spouse Yes, Bouchard IV of Avesnes has spouse Yes, Bouchard IV of Avesnes has name Bouchard IV of Avesnes The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Reginar Longneck has spouse No, Reginar Longneck has spouse No, Reginar Longneck has name Reginar Longneck The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+James of Avesnes has spouse No, James of Avesnes has spouse No, James of Avesnes has name James of Avesnes The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Charlemagne has spouse Yes, Charlemagne has spouse Yes, Charlemagne has name Charlemagne The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+Engeltrude de F zensac has spouse Yes, Engeltrude de F zensac has spouse Yes, Engeltrude de F zensac has name Engeltrude de F zensac The path is classified as POSITIVE (PCA Confidence 0.9615 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.9615
+- Rule Classification: POSITIVE (PCA Confidence 0.9615 >= threshold 0.5)
+- Standard Confidence: 0.9494
+- Head Coverage: 0.0389

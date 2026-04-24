@@ -1,0 +1,80 @@
+{
+    "huggingface_token": "YOUR API TOKEN",
+    "model_key": "LLaMA-3-8B",
+    "available_models": {
+        "LLaMA-3-8B": "meta-llama/Llama-3.2-1B-Instruct",
+        "EuroLLM-9B": "utter-project/EuroLLM-9B"
+    },
+    "data_dir": "KG/SynthLC-1000",
+    "rules_dir_cot2": "CoT/CoT2_SynthLC-1000",
+    "rules_dir_cot3": "CoT/CoT3_SynthLC-1000",
+    "output_dir": "./outputs/SynthLC-1000/",
+    "kg_files": {
+        "train": "train2id.txt",
+        "train_processed": "train2id_processed.txt",
+        "relation2id": "relation2id.txt"
+    },
+    "preprocess_kg": true,
+    "data_generation": {
+        "train_ratio": 0.8,
+        "baseline_samples": 2000,
+        "max_path_length": 5,
+        "include_reasoning": true,
+        "max_rules_in_context": 3,
+        "pca_threshold": 0.5,
+        "imbalance_threshold": 1.1,
+        "relation_skew_threshold": 65,
+        "_relation_skew_threshold_comment": "Filter relations where one label (yes/no) exceeds this % in training data. Prevents model from learning relation-name shortcuts instead of reasoning. Recommended: 85 for DB100K/SynthLC. Set to null or remove to disable (e.g. YAGO3-10)."
+    },
+    "pregenerated_data": {
+        "use_pregenerated": true,
+        "train_with_rules_cot2_csv": "outputs/SynthLC-1000/train_data_with_rules_CoT2.csv",
+        "train_with_rules_cot3_csv": "outputs/SynthLC-1000/train_data_with_rules_CoT3.csv",
+        "test_cot2_csv": "outputs/SynthLC-1000/test_data_CoT2.csv",
+        "test_cot3_csv": "outputs/SynthLC-1000/test_data_CoT3.csv",
+        "shared_test_csv": "outputs/SynthLC-1000/test_data_shared.csv"
+    },
+    "training": {
+        "num_steps": 20000,
+        "per_device_train_batch_size": 1,
+        "gradient_accumulation_steps": 8,
+        "learning_rate": 0.0002,
+        "warmup_steps": 200,
+        "logging_steps": 200,
+        "save_steps": 2000,
+        "max_length": 512,
+        "fp16": true
+    },
+    "lora": {
+        "r": 16,
+        "lora_alpha": 64,
+        "lora_dropout": 0.1
+    },
+    "quantization": {
+        "load_in_4bit": true,
+        "bnb_4bit_use_double_quant": true,
+        "bnb_4bit_quant_type": "nf4",
+        "bnb_4bit_compute_dtype": "bfloat16"
+    },
+    "evaluation": {
+        "max_samples": 500,
+        "max_new_tokens": 50
+    },
+    "negative_mining": {
+        "enable": true,
+        "enable_weighting": true,
+        "base_weight": 1.0,
+        "max_weight": 3.0
+    },
+    "strip_shacl_from_input": false,
+    "gpu_max_memory_mb": 40960,
+    "seed": 42,
+    "kg_sparql": {
+        "_comment": "SPARQL settings for NL-instances generation. kg_file must be in .nt or .ttl format. namespace is the URI prefix used for all predicates and entities in that KG.",
+        "kg_file": "KG/SynthLC-1000/SynthLC_1000.nt",
+        "rules_csv": "rules/SynthLC-1000.csv",
+        "namespace": "http://synthetic-LC.org/lungCancer/entity/",
+        "namespace_prefix": "lc",
+        "shacl_report": "constraints/SynthLC-1000/result_SynthLC-1000/validationReport.ttl"
+    }
+}

@@ -1,0 +1,50 @@
+Rule 51:
+If mother ?f AND predecessor ?f, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?b  mother  ?f  ?a  predecessor  ?f
+
+Real Instances from Knowledge Graph (35 found):
+
+Adelaide of Italy, Rozala of Italy has mother Willa of Tuscany, Adelaide of Italy has predecessor Willa of Tuscany The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Gerberga of M con, Rozala of Italy has mother Willa of Tuscany, Gerberga of M con has predecessor Willa of Tuscany The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Peter I Duke of Brittany has successor John I Duke of Brittany, John I Duke of Brittany has mother Alix Duchess of Brittany, Peter I Duke of Brittany has predecessor Alix Duchess of Brittany The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: yes
+John I Duke of Brittany, John I Duke of Brittany has mother Alix Duchess of Brittany, John I Duke of Brittany has predecessor Alix Duchess of Brittany The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Joan III Countess of Burgundy, Joan III Countess of Burgundy has mother Joan II Countess of Burgundy, Joan III Countess of Burgundy has predecessor Joan II Countess of Burgundy The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Joan II Countess of Burgundy, Blanche of Burgundy has mother Mahaut Countess of Artois, Joan II Countess of Burgundy has predecessor Mahaut Countess of Artois The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Charles VII Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa, Charles VII Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Charles VII Holy Roman Emperor, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa, Charles VII Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Charles VII Holy Roman Emperor, Marie Antoinette has mother Maria Theresa, Charles VII Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Joseph II Holy Roman Emperor has successor Leopold II Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa, Joseph II Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: yes
+Joseph II Holy Roman Emperor, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa, Joseph II Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Joseph II Holy Roman Emperor, Marie Antoinette has mother Maria Theresa, Joseph II Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Francis I Holy Roman Emperor has successor Leopold II Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa, Francis I Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: yes
+Francis I Holy Roman Emperor, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa, Francis I Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Francis I Holy Roman Emperor, Marie Antoinette has mother Maria Theresa, Francis I Holy Roman Emperor has predecessor Maria Theresa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+John King of England, John King of England has mother Eleanor of Aquitaine, John King of England has predecessor Eleanor of Aquitaine The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+John King of England, Eleanor of England Queen of Castile has mother Eleanor of Aquitaine, John King of England has predecessor Eleanor of Aquitaine The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Maria Beatrice d Este Duchess of Massa, Maria Beatrice d Este Duchess of Massa has mother Maria Teresa Cybo Malaspina Duchess of Massa, Maria Beatrice d Este Duchess of Massa has predecessor Maria Teresa Cybo Malaspina Duchess of Massa The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+John II Duke of Lorraine, Margaret of Anjou has mother Isabella Duchess of Lorraine, John II Duke of Lorraine has predecessor Isabella Duchess of Lorraine The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Philip I of Castile, Eleanor of Austria has mother Joanna of Castile, Philip I of Castile has predecessor Joanna of Castile The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Philip I of Castile has successor Charles V Holy Roman Emperor, Charles V Holy Roman Emperor has mother Joanna of Castile, Philip I of Castile has predecessor Joanna of Castile The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: yes
+Charles V Holy Roman Emperor, Eleanor of Austria has mother Joanna of Castile, Charles V Holy Roman Emperor has predecessor Joanna of Castile The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Charles V Holy Roman Emperor, Charles V Holy Roman Emperor has mother Joanna of Castile, Charles V Holy Roman Emperor has predecessor Joanna of Castile The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Henry IV of France, Henry IV of France has mother Jeanne d Albret, Henry IV of France has predecessor Jeanne d Albret The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Edward II of England, Edward II of England has mother Eleanor of Castile, Edward II of England has predecessor Eleanor of Castile The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Philip VI of France, Joan of Valois Countess of Hainaut has mother Margaret Countess of Anjou, Philip VI of France has predecessor Margaret Countess of Anjou The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Philip VI of France, Philip VI of France has mother Margaret Countess of Anjou, Philip VI of France has predecessor Margaret Countess of Anjou The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Princess Marie Isabelle of Orl ans, Antoine Duke of Montpensier has mother Maria Amalia of Naples and Sicily, Princess Marie Isabelle of Orl ans has predecessor Maria Amalia of Naples and Sicily The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Alfonso II of Aragon, Alfonso II of Aragon has mother Petronilla of Aragon, Alfonso II of Aragon has predecessor Petronilla of Aragon The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Louis X of France, Charles IV of France has mother Joan I of Navarre, Louis X of France has predecessor Joan I of Navarre The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Louis X of France, Isabella of France has mother Joan I of Navarre, Louis X of France has predecessor Joan I of Navarre The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Hemma, Charles the Bald has mother Judith of Bavaria died 843, Hemma has predecessor Judith of Bavaria died 843 The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Robert I Latin Emperor, Yolanda of Courtenay has mother Yolanda Latin Empress, Robert I Latin Emperor has predecessor Yolanda Latin Empress The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Liutgard of Saxony died 885, Charles the Fat has mother Hemma, Liutgard of Saxony died 885 has predecessor Hemma The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+Joan Countess of Ponthieu, Joan Countess of Ponthieu has mother Marie Countess of Ponthieu, Joan Countess of Ponthieu has predecessor Marie Countess of Ponthieu The path is classified as NEGATIVE (PCA Confidence 0.1429 < threshold 0.5) Answer: no
+
+Rule Statistics:
+- PCA Confidence: 0.1429
+- Rule Classification: NEGATIVE (PCA Confidence 0.1429 < threshold 0.5)
+- Standard Confidence: 0.1143
+- Head Coverage: 0.0113

@@ -1,0 +1,52 @@
+Rule 129:
+If mother ?f AND successor ?b, then father ?b.
+
+Formal Rule:
+Head: ?a  father  ?b
+Body: ?a  mother  ?f  ?f  successor  ?b
+
+Real Instances from Knowledge Graph (37 found):
+
+Maria of Aragon Queen of Portugal has father Ferdinand II of Aragon, Maria of Aragon Queen of Portugal has mother Isabella I of Castile, Isabella I of Castile has successor Ferdinand II of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: yes
+Maria of Aragon Queen of Portugal, Maria of Aragon Queen of Portugal has mother Isabella I of Castile, Isabella I of Castile has successor Joanna of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Claude of France, Claude of France has mother Anne of Brittany, Anne of Brittany has successor Claude of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Charles IV of France, Charles IV of France has mother Joan I of Navarre, Joan I of Navarre has successor Philip IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Charles IV of France, Charles IV of France has mother Joan I of Navarre, Joan I of Navarre has successor Louis X of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Isabella of France has father Philip IV of France, Isabella of France has mother Joan I of Navarre, Joan I of Navarre has successor Philip IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: yes
+Isabella of France, Isabella of France has mother Joan I of Navarre, Joan I of Navarre has successor Louis X of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Rozala of Italy, Rozala of Italy has mother Willa of Tuscany, Willa of Tuscany has successor Gerberga of M con. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+John King of England, John King of England has mother Eleanor of Aquitaine, Eleanor of Aquitaine has successor John King of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Eleanor of England Queen of Castile, Eleanor of England Queen of Castile has mother Eleanor of Aquitaine, Eleanor of Aquitaine has successor John King of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Joan III Countess of Burgundy, Joan III Countess of Burgundy has mother Joan II Countess of Burgundy, Joan II Countess of Burgundy has successor Joan III Countess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Joan Countess of Ponthieu, Joan Countess of Ponthieu has mother Marie Countess of Ponthieu, Marie Countess of Ponthieu has successor Joan Countess of Ponthieu. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Eleanor of Austria, Eleanor of Austria has mother Joanna of Castile, Joanna of Castile has successor Charles V Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Eleanor of Austria, Eleanor of Austria has mother Joanna of Castile, Joanna of Castile has successor Philip I of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Charles V Holy Roman Emperor, Charles V Holy Roman Emperor has mother Joanna of Castile, Joanna of Castile has successor Charles V Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Charles V Holy Roman Emperor has father Philip I of Castile, Charles V Holy Roman Emperor has mother Joanna of Castile, Joanna of Castile has successor Philip I of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: yes
+Antoine Duke of Montpensier, Antoine Duke of Montpensier has mother Maria Amalia of Naples and Sicily, Maria Amalia of Naples and Sicily has successor Princess Marie Isabelle of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Joan of Valois Countess of Hainaut, Joan of Valois Countess of Hainaut has mother Margaret Countess of Anjou, Margaret Countess of Anjou has successor Philip VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Philip VI of France, Philip VI of France has mother Margaret Countess of Anjou, Margaret Countess of Anjou has successor Philip VI of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Leopold II Holy Roman Emperor has father Francis I Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa, Maria Theresa has successor Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: yes
+Leopold II Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa, Maria Theresa has successor Charles VII Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Leopold II Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa, Maria Theresa has successor Joseph II Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Ferdinand Karl Archduke of Austria Este has father Francis I Holy Roman Emperor, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa, Maria Theresa has successor Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: yes
+Ferdinand Karl Archduke of Austria Este, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa, Maria Theresa has successor Charles VII Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Ferdinand Karl Archduke of Austria Este, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa, Maria Theresa has successor Joseph II Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Marie Antoinette has father Francis I Holy Roman Emperor, Marie Antoinette has mother Maria Theresa, Maria Theresa has successor Francis I Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: yes
+Marie Antoinette, Marie Antoinette has mother Maria Theresa, Maria Theresa has successor Charles VII Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Marie Antoinette, Marie Antoinette has mother Maria Theresa, Maria Theresa has successor Joseph II Holy Roman Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Margaret of Anjou, Margaret of Anjou has mother Isabella Duchess of Lorraine, Isabella Duchess of Lorraine has successor John II Duke of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Maria Beatrice d Este Duchess of Massa, Maria Beatrice d Este Duchess of Massa has mother Maria Teresa Cybo Malaspina Duchess of Massa, Maria Teresa Cybo Malaspina Duchess of Massa has successor Maria Beatrice d Este Duchess of Massa. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+John I Duke of Brittany, John I Duke of Brittany has mother Alix Duchess of Brittany, Alix Duchess of Brittany has successor John I Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Blanche of Navarre Queen of France, Blanche of Navarre Queen of France has mother Joan II of Navarre, Joan II of Navarre has successor Charles II of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Otto IV Count of Burgundy, Otto IV Count of Burgundy has mother Adelaide Countess of Burgundy, Adelaide Countess of Burgundy has successor Otto IV Count of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Yolanda of Courtenay, Yolanda of Courtenay has mother Yolanda Latin Empress, Yolanda Latin Empress has successor Robert I Latin Emperor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Alfonso II of Aragon, Alfonso II of Aragon has mother Petronilla of Aragon, Petronilla of Aragon has successor Alfonso II of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Blanche of Burgundy, Blanche of Burgundy has mother Mahaut Countess of Artois, Mahaut Countess of Artois has successor Joan II Countess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+Henry IV of France, Henry IV of France has mother Jeanne d Albret, Jeanne d Albret has successor Henry IV of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2143 < threshold 0.5) Answer: no
+
+Rule Statistics:
+- PCA Confidence: 0.2143
+- Rule Classification: NEGATIVE (PCA Confidence 0.2143 < threshold 0.5)
+- Standard Confidence: 0.1622
+- Head Coverage: 0.0107

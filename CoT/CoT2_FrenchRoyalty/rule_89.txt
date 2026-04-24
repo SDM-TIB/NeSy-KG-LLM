@@ -1,0 +1,32 @@
+Rule 89:
+If name ?f AND predecessor ?f, then predecessor ?b.
+
+Formal Rule:
+Head: ?a  predecessor  ?b
+Body: ?b  name  ?f  ?a  predecessor  ?f
+
+Real Instances from Knowledge Graph (17 found):
+
+Adelaide of Italy has predecessor Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Adelaide of Italy has predecessor Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Gerberga of M con has predecessor Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Gerberga of M con has predecessor Willa of Tuscany The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Iziaslav I of Kiev has predecessor Yaroslav the Wise, Yaroslav the Wise has name Yaroslav the Wise, Iziaslav I of Kiev has predecessor Yaroslav the Wise The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Amaury II de Montfort has predecessor Simon I de Montfort, Simon I de Montfort has name Simon I de Montfort, Amaury II de Montfort has predecessor Simon I de Montfort The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Jacques Charles Dupont de l Eure, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Jacques Charles Dupont de l Eure has predecessor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: no
+Prince Philippe Count of Paris, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Prince Philippe Count of Paris has predecessor Louis Philippe I The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: no
+John King of England has predecessor Eleanor of Aquitaine, Eleanor of Aquitaine has name Eleanor of Aquitaine, John King of England has predecessor Eleanor of Aquitaine The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Henry I of France has predecessor Hugh Magnus, Hugh Magnus has name Hugh Magnus, Henry I of France has predecessor Hugh Magnus The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+John IV Duke of Brittany has predecessor John of Montfort, John of Montfort has name John of Montfort, John IV Duke of Brittany has predecessor John of Montfort The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Carloman mayor of the palace has predecessor Charles Martel, Charles Martel has name Charles Martel, Carloman mayor of the palace has predecessor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Pepin the Short has predecessor Charles Martel, Charles Martel has name Charles Martel, Pepin the Short has predecessor Charles Martel The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Louis the Pious has predecessor Charlemagne, Charlemagne has name Charlemagne, Louis the Pious has predecessor Charlemagne The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Willa of Tuscany has predecessor Adelaide of Italy, Adelaide of Italy has name Adelaide of Italy, Willa of Tuscany has predecessor Adelaide of Italy The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Yaropolk I of Kiev has predecessor Vladimir the Great, Vladimir the Great has name Vladimir the Great, Yaropolk I of Kiev has predecessor Vladimir the Great The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Sviatopolk I of Kiev has predecessor Vladimir the Great, Vladimir the Great has name Vladimir the Great, Sviatopolk I of Kiev has predecessor Vladimir the Great The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Galeazzo Maria Sforza has predecessor Francesco I Sforza, Francesco I Sforza has name Francesco I Sforza, Galeazzo Maria Sforza has predecessor Francesco I Sforza The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+Oleg of Novgorod has predecessor Rurik, Rurik has name Rurik, Oleg of Novgorod has predecessor Rurik The path is classified as POSITIVE (PCA Confidence 0.8824 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.8824
+- Rule Classification: POSITIVE (PCA Confidence 0.8824 >= threshold 0.5)
+- Standard Confidence: 0.8824
+- Head Coverage: 0.0419

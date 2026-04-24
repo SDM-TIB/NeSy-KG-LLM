@@ -1,0 +1,13 @@
+12
+child	0
+father	1
+gender	2
+hasSpouse	3
+marriedTo	4
+mother	5
+name	6
+parent	7
+predecessor	8
+spouse	9
+successor	10
+type	11

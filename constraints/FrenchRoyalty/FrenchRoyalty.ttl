@@ -1,0 +1,16 @@
+@prefix ex: <http://FrenchRoyalty.org/> .
+@prefix exS: <http://FrenchRoyalty.org/shapes/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+exS:FatherWithChildConstraint a sh:NodeShape ;
+    sh:sparql [ sh:select """
+     SELECT ($this AS ?this)
+            WHERE {
+                $this <http://FrenchRoyalty.org/child> ?child .
+                ?child <http://FrenchRoyalty.org/mother> ?mother .
+                FILTER EXISTS {
+                    $this <http://FrenchRoyalty.org/spouse> ?mother .
+                }
+            }
+""" ] ;
+    sh:targetClass ex:Person .

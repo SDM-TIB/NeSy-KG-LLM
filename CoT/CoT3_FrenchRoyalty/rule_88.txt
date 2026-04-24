@@ -1,0 +1,30 @@
+Rule 88:
+If name ?f AND predecessor ?a, then predecessor ?b.
+
+Formal Rule:
+Head: ?a  predecessor  ?b
+Body: ?b  name  ?f  ?f  predecessor  ?a
+
+Real Instances from Knowledge Graph (15 found):
+
+John III Duke of Brittany, John of Montfort has name John of Montfort, John of Montfort has predecessor John III Duke of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Sviatoslav I, Vladimir the Great has name Vladimir the Great, Vladimir the Great has predecessor Sviatoslav I. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Yaropolk I of Kiev has predecessor Vladimir the Great, Vladimir the Great has name Vladimir the Great, Vladimir the Great has predecessor Yaropolk I of Kiev. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: yes
+Philip the Good, Charles the Bold has name Charles the Bold, Charles the Bold has predecessor Philip the Good. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Willa of Tuscany has predecessor Adelaide of Italy, Adelaide of Italy has name Adelaide of Italy, Adelaide of Italy has predecessor Willa of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: yes
+Pepin of Herstal, Charles Martel has name Charles Martel, Charles Martel has predecessor Pepin of Herstal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Theudoald, Charles Martel has name Charles Martel, Charles Martel has predecessor Theudoald. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Golden Ambrosian Republic, Francesco I Sforza has name Francesco I Sforza, Francesco I Sforza has predecessor Golden Ambrosian Republic. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Louis Philippe II Duke of Orl ans has predecessor Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has predecessor Louis Philippe II Duke of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: yes
+Henri Count of Chambord, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has predecessor Henri Count of Chambord. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Charles X, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has predecessor Charles X. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Sviatopolk I of Kiev, Yaroslav the Wise has name Yaroslav the Wise, Yaroslav the Wise has predecessor Sviatopolk I of Kiev. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Ermengarde of Tuscany, Willa of Tuscany has name Willa of Tuscany, Willa of Tuscany has predecessor Ermengarde of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+Adelaide of Italy has predecessor Willa of Tuscany, Willa of Tuscany has name Willa of Tuscany, Willa of Tuscany has predecessor Adelaide of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: yes
+Desiderius, Charlemagne has name Charlemagne, Charlemagne has predecessor Desiderius. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.2857 < threshold 0.5) Answer: no
+
+Rule Statistics:
+- PCA Confidence: 0.2857
+- Rule Classification: NEGATIVE (PCA Confidence 0.2857 < threshold 0.5)
+- Standard Confidence: 0.2667
+- Head Coverage: 0.0112

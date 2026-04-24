@@ -1,0 +1,15 @@
+================================================================================
+FRENCHROYALTY CoT3 RULES — SUMMARY
+================================================================================
+
+Total Rules          : 312
+Output Directory     : C:\Disha\Symbolic_LP\KG-LLM\CoT\CoT3_FrenchRoyalty
+KG Triples           : 12265
+PCA Threshold        : 0.5
+Namespace            : http://FrenchRoaylty.org/
+Namespace Prefix     : fr
+SHACL violations idx : 0 entities
+
+PCA Confidence Statistics:
+  Positive (>= 0.5) : 155
+  Negative (<  0.5) : 157

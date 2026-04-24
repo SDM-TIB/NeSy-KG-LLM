@@ -1,0 +1,19 @@
+Rule 100:
+If successor ?a AND successor ?b, then predecessor ?b.
+
+Formal Rule:
+Head: ?a  predecessor  ?b
+Body: ?b  successor  ?a  ?a  successor  ?b
+
+Real Instances from Knowledge Graph (4 found):
+
+Yaropolk I of Kiev has predecessor Vladimir the Great, Vladimir the Great has successor Yaropolk I of Kiev, Yaropolk I of Kiev has successor Vladimir the Great. [VALID] The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Vladimir the Great has predecessor Yaropolk I of Kiev, Yaropolk I of Kiev has successor Vladimir the Great, Vladimir the Great has successor Yaropolk I of Kiev. [VALID] The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Charles VII Holy Roman Emperor has predecessor Maria Theresa, Maria Theresa has successor Charles VII Holy Roman Emperor, Charles VII Holy Roman Emperor has successor Maria Theresa. [VALID] The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Theresa has predecessor Charles VII Holy Roman Emperor, Charles VII Holy Roman Emperor has successor Maria Theresa, Maria Theresa has successor Charles VII Holy Roman Emperor. [VALID] The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 1.0000
+- Rule Classification: POSITIVE (PCA Confidence 1.0000 >= threshold 0.5)
+- Standard Confidence: 1.0000
+- Head Coverage: 0.0112

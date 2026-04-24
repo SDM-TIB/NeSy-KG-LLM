@@ -1,0 +1,423 @@
+Rule 8:
+If mother ?b, then predecessor ?b.
+
+Formal Rule:
+Head: ?a  predecessor  ?b
+Body: ?a  mother  ?b
+
+Real Instances from Knowledge Graph (408 found):
+
+A nor de Ch tellerault, A nor de Ch tellerault has mother Dangereuse de l Isle Bouchard. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Bertha of Holland, Bertha of Holland has mother Gertrude of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Robert III of Scotland, Robert III of Scotland has mother Elizabeth Mure. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elisabeth of Austria Queen of France, Elisabeth of Austria Queen of France has mother Maria of Austria Holy Roman Empress. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Humbert II Count of Savoy, Humbert II Count of Savoy has mother Joan of Geneva. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Christine of Hesse, Christine of Hesse has mother Christine of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ramon Berenguer III Count of Barcelona, Ramon Berenguer III Count of Barcelona has mother Maud of Apulia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Luisa of Spain, Maria Luisa of Spain has mother Maria Amalia of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand I of the Two Sicilies, Ferdinand I of the Two Sicilies has mother Maria Amalia of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Edward III of England, Edward III of England has mother Isabella of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Frederick II Count of Vaud mont, Frederick II Count of Vaud mont has mother Marie Countess of Harcourt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles the Bald, Charles the Bald has mother Judith of Bavaria died 843. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Theobald I Count of Blois, Theobald I Count of Blois has mother Richende De Bourges. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis Duke of Orl ans 1703 1752, Louis Duke of Orl ans 1703 1752 has mother Fran oise Marie de Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charlotte Agla  d Orl ans, Charlotte Agla  d Orl ans has mother Fran oise Marie de Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charlotte of Bourbon Queen of Cyprus, Charlotte of Bourbon Queen of Cyprus has mother Catherine of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Barbara Jagiellon, Barbara Jagiellon has mother Elizabeth of Austria 1436 1505. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mary de Bohun, Mary de Bohun has mother Joan Fitzalan Countess of Hereford. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Adelaide of Auxerre born c. 870, Adelaide of Auxerre born c. 870 has mother Waldrada of Worms. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Rudolph I of Burgundy, Rudolph I of Burgundy has mother Waldrada of Worms. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alfred the Great, Alfred the Great has mother Osburh. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hugh of Italy, Hugh of Italy has mother Bertha daughter of Lothair II. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hugh IV Duke of Burgundy, Hugh IV Duke of Burgundy has mother Alice of Vergy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip of France 1116 1131, Philip of France 1116 1131 has mother Adelaide of Maurienne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Robert I Count of Dreux, Robert I Count of Dreux has mother Adelaide of Maurienne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Denis of Portugal, Denis of Portugal has mother Beatrice of Castile 1242 1303. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis IV of France, Louis IV of France has mother Eadgifu of Wessex. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Th r se of France, Marie Th r se of France has mother Marie Antoinette. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis XVII, Louis XVII has mother Marie Antoinette. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Edward II of England has predecessor Eleanor of Castile, Edward II of England has mother Eleanor of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has mother Auguste of Bade Baden. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry VI Count of Luxembourg, Henry VI Count of Luxembourg has mother Margaret of Bar. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eleanor of Lancaster, Eleanor of Lancaster has mother Maud Chaworth. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Gerberga of Saxony, Gerberga of Saxony has mother Matilda of Ringelheim. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Emmanuel III of Sardinia, Charles Emmanuel III of Sardinia has mother Anne Marie d Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Ad la de of Savoy, Marie Ad la de of Savoy has mother Anne Marie d Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ernest Augustus Elector of Hanover, Ernest Augustus Elector of Hanover has mother Anna Eleonore of Hesse Darmstadt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Provence, Margaret of Provence has mother Beatrice of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eleanor of Provence, Eleanor of Provence has mother Beatrice of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Savoy Countess of Saint Pol, Margaret of Savoy Countess of Saint Pol has mother Anne of Cyprus. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charlotte of Savoy, Charlotte of Savoy has mother Anne of Cyprus. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip II Duke of Savoy, Philip II Duke of Savoy has mother Anne of Cyprus. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anne of Cyprus, Anne of Cyprus has mother Charlotte of Bourbon Queen of Cyprus. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry III Duke of Brabant, Henry III Duke of Brabant has mother Maria of Swabia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Matilda of Brabant Countess of Artois, Matilda of Brabant Countess of Artois has mother Maria of Swabia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francis I Holy Roman Emperor, Francis I Holy Roman Emperor has mother  lisabeth Charlotte d Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis I Duke of Bourbon, Louis I Duke of Bourbon has mother Beatrice of Burgundy Lady of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Princess Caroline Louise of Saxe Weimar Eisenach, Princess Caroline Louise of Saxe Weimar Eisenach has mother Princess Louise of Hesse Darmstadt 1757 1830. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ingegerd Olofsdotter of Sweden, Ingegerd Olofsdotter of Sweden has mother Estrid of the Obotrites. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+George III, George III has mother Princess Augusta of Saxe Gotha. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Afonso V of Portugal, Afonso V of Portugal has mother Eleanor of Aragon Queen of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand Duke of Viseu, Ferdinand Duke of Viseu has mother Eleanor of Aragon Queen of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Piero the Unfortunate, Piero the Unfortunate has mother Clarice Orsini. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Louise Duchess of Parma, Marie Louise Duchess of Parma has mother Maria Theresa of Naples and Sicily. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria of Aragon Queen of Portugal, Maria of Aragon Queen of Portugal has mother Isabella I of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elisabeth of France 1602 1644, Elisabeth of France 1602 1644 has mother Marie de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henrietta Maria, Henrietta Maria has mother Marie de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John I of Castile, John I of Castile has mother Juana Manuel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alfonso IX of Le n, Alfonso IX of Le n has mother Urraca of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Albert Azzo II Margrave of Milan, Albert Azzo II Margrave of Milan has mother Adela of Milan. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Peter I Duke of Bourbon, Peter I Duke of Bourbon has mother Mary of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+James I Count of La Marche, James I Count of La Marche has mother Mary of Avesnes. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand IV of Castile, Ferdinand IV of Castile has mother Mar a de Molina. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis XVI, Louis XVI has mother Maria Josepha of Saxony Dauphine of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles X, Charles X has mother Maria Josepha of Saxony Dauphine of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis XVIII, Louis XVIII has mother Maria Josepha of Saxony Dauphine of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francis II Holy Roman Emperor, Francis II Holy Roman Emperor has mother Maria Luisa of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francis II Duke of Lorraine, Francis II Duke of Lorraine has mother Claude of France 1547 1575. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Matthew Stewart 2nd Earl of Lennox, Matthew Stewart 2nd Earl of Lennox has mother Margaret Boswell. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Emmanuel I Duke of Savoy, Charles Emmanuel I Duke of Savoy has mother Margaret of Valois Duchess of Berry. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Claude of France, Claude of France has mother Anne of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alys of France Countess of Vexin, Alys of France Countess of Vexin has mother Constance of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hugh Magnus, Hugh Magnus has mother Constance of Arles. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Robert I Duke of Burgundy, Robert I Duke of Burgundy has mother Constance of Arles. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Sophia Eleonore of Saxony, Sophia Eleonore of Saxony has mother Magdalene Sibylle of Prussia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Theresa of Naples and Sicily, Maria Theresa of Naples and Sicily has mother Maria Carolina of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Amalia of Naples and Sicily, Maria Amalia of Naples and Sicily has mother Maria Carolina of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philippe I Duke of Orl ans, Philippe I Duke of Orl ans has mother Anne of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Princess Magdalena Augusta of Anhalt Zerbst, Princess Magdalena Augusta of Anhalt Zerbst has mother Sophia of Saxe Weissenfels Princess of Anhalt Zerbst. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anne of Foix Candale, Anne of Foix Candale has mother Catherine of Foix Countess of Candale. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anna of Holstei Gottorp, Anna of Holstei Gottorp has mother Christine of Hesse. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Frederick II Duke of Lorraine, Frederick II Duke of Lorraine has mother Wierzchoslawa Ludmilla of Greater Poland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Theresa of Savoy, Maria Theresa of Savoy has mother Maria Antonia Ferdinanda of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Adelaide of Maurienne, Adelaide of Maurienne has mother Gisela of Burgundy Marchioness of Montferrat. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Emmanuel Philibert Duke of Savoy, Emmanuel Philibert Duke of Savoy has mother Beatrice of Portugal Duchess of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles V Duke of Lorraine, Charles V Duke of Lorraine has mother Claude Fran oise de Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alice Holland Countess of Kent, Alice Holland Countess of Kent has mother Eleanor of Lancaster. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles IV of France, Charles IV of France has mother Joan I of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of France, Isabella of France has mother Joan I of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of the Palatinate, Margaret of the Palatinate has mother Elisabeth of Nuremberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis XV, Louis XV has mother Marie Ad la de of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francis I Duke of Lorraine, Francis I Duke of Lorraine has mother Ren e of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Nicolas Duke of Merc ur, Nicolas Duke of Merc ur has mother Ren e of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ramon Berenguer IV Count of Barcelona, Ramon Berenguer IV Count of Barcelona has mother Douce I Countess of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Berengaria of Barcelona, Berengaria of Barcelona has mother Douce I Countess of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Rozala of Italy, Rozala of Italy has mother Willa of Tuscany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ernest I Duke of Brunswic L neburg, Ernest I Duke of Brunswic L neburg has mother Margaret of Saxony Duchess of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Adelaide of Aquitaine, Adelaide of Aquitaine has mother Gerloc. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William IV Duke of Aquitaine, William IV Duke of Aquitaine has mother Gerloc. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Archduchess Anna of Austria, Archduchess Anna of Austria has mother Anne of Bohemia and Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joanna of Austria Grand Duchess of Tuscany, Joanna of Austria Grand Duchess of Tuscany has mother Anne of Bohemia and Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maximilian II Holy Roman Emperor, Maximilian II Holy Roman Emperor has mother Anne of Bohemia and Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria of Austria Duchess of J lich Cleves Berg, Maria of Austria Duchess of J lich Cleves Berg has mother Anne of Bohemia and Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mahaut Countess of Artois, Mahaut Countess of Artois has mother Amicie de Courtenay. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Beatrice of Savoy, Maria Beatrice of Savoy has mother Maria Theresa of Austria Este Queen of Sardinia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Theresa of Austria Este Queen of Sardinia, Maria Theresa of Austria Este Queen of Sardinia has mother Maria Beatrice d Este Duchess of Massa. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John I of France, John I of France has mother Clementia of Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Theresa, Maria Theresa has mother Elisabeth Christine of Brunswic Wolfenb ttel. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella de Beauchamp, Isabella de Beauchamp has mother Maud FitzJohn Countess of Warwick. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella I of Castile, Isabella I of Castile has mother Isabella of Portugal Queen of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Christine of Saxony, Christine of Saxony has mother Barbara Jagiellon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry II of England, Henry II of England has mother Empress Matilda. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip V of Spain, Philip V of Spain has mother Maria Anna Victoria of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis Duke of Burgundy, Louis Duke of Burgundy has mother Maria Anna Victoria of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Princess Marie Isabelle of Orl ans, Princess Marie Isabelle of Orl ans has mother Infanta Luisa Fernanda Duchess of Montpensier. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John King of England has predecessor Eleanor of Aquitaine, John King of England has mother Eleanor of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Eleanor of England Queen of Castile, Eleanor of England Queen of Castile has mother Eleanor of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret Stewart Dauphine of France, Margaret Stewart Dauphine of France has mother Joan Beaufort Queen of Scots. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+James II of Scotland, James II of Scotland has mother Joan Beaufort Queen of Scots. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louise Marie Ad la de de Bourbon Duchess of Orl ans, Louise Marie Ad la de de Bourbon Duchess of Orl ans has mother Maria Teresa Felicitas d Este. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan III Countess of Burgundy has predecessor Joan II Countess of Burgundy, Joan III Countess of Burgundy has mother Joan II Countess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Ferdinand II of Le n, Ferdinand II of Le n has mother Berengaria of Barcelona. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maximilian I Holy Roman Emperor, Maximilian I Holy Roman Emperor has mother Eleanor of Portugal Holy Roman Empress. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Antoine Count of Vaud mont, Antoine Count of Vaud mont has mother Margaret of Joinville. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Otto I Duke of Brunswic L neburg, Otto I Duke of Brunswic L neburg has mother Helena of Denmark. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Duke of Orl ans, Charles Duke of Orl ans has mother Valentina Visconti Duchess of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin II Count of Hainaut, Baldwin II Count of Hainaut has mother Richilde Countess of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Valois Angoul me, Margaret of Valois Angoul me has mother Louise of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Catherine of Vend me, Catherine of Vend me has mother Joan of Ponthieu Dame of Epernon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Valois, Margaret of Valois has mother Catherine de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry III of France, Henry III of France has mother Catherine de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles IX of France, Charles IX of France has mother Catherine de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francis II of France, Francis II of France has mother Catherine de Medici. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis XI, Louis XI has mother Marie of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Benedicta Henrietta of the Palatinate, Benedicta Henrietta of the Palatinate has mother Anne Gonzaga. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Count of Valois, Charles Count of Valois has mother Isabella of Aragon Queen of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret I Countess of Flanders, Margaret I Countess of Flanders has mother Sibylla of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Antonia Ferdinanda of Spain, Maria Antonia Ferdinanda of Spain has mother Elisabeth Farnese. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles III of Spain, Charles III of Spain has mother Elisabeth Farnese. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry VII of England, Henry VII of England has mother Lady Margaret Beaufort. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Madeleine de La Tour d Auvergne, Madeleine de La Tour d Auvergne has mother Jeanne de Bourbon Duchess of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin VI Count of Flanders, Baldwin VI Count of Flanders has mother Adela of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry IX Duke of Bavaria, Henry IX Duke of Bavaria has mother Judith of Flanders died 1095. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan Countess of Ponthieu has predecessor Marie Countess of Ponthieu, Joan Countess of Ponthieu has mother Marie Countess of Ponthieu. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Otto William Count of Burgundy, Otto William Count of Burgundy has mother Gerberga of M con. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Prince Philippe Count of Paris, Prince Philippe Count of Paris has mother Duchess Helene of Mecklenburg Schwerin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip I of France, Philip I of France has mother Anne of Kiev. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joanna of Bourbon, Joanna of Bourbon has mother Isabella of Valois Duchess of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Stephen II Duke of Bavaria, Stephen II Duke of Bavaria has mother Beatrice of Silesia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis I Duke of Bavaria, Louis I Duke of Bavaria has mother Agnes of Loon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eleanor of Austria, Eleanor of Austria has mother Joanna of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles V Holy Roman Emperor has predecessor Joanna of Castile, Charles V Holy Roman Emperor has mother Joanna of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Taddea Visconti, Taddea Visconti has mother Beatrice Regina della Scala. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles VI of France, Charles VI of France has mother Joanna of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis I Duke of Orl ans, Louis I Duke of Orl ans has mother Joanna of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis Philippe I, Louis Philippe I has mother Louise Marie Ad la de de Bourbon Duchess of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand III of Castile, Ferdinand III of Castile has mother Berengaria of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip III of France, Philip III of France has mother Margaret of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Robert Count of Clermont, Robert Count of Clermont has mother Margaret of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Antoine Duke of Montpensier, Antoine Duke of Montpensier has mother Maria Amalia of Naples and Sicily. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alfonso VIII of Castile, Alfonso VIII of Castile has mother Blanca of Navarre Queen of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Violant of Hungary, Violant of Hungary has mother Yolanda of Courtenay. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan of Valois Countess of Hainaut, Joan of Valois Countess of Hainaut has mother Margaret Countess of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip VI of France has predecessor Margaret Countess of Anjou, Philip VI of France has mother Margaret Countess of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Baldwin IV Count of Flanders, Baldwin IV Count of Flanders has mother Rozala of Italy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip II of Spain, Philip II of Spain has mother Isabella of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria of Austria Holy Roman Empress, Maria of Austria Holy Roman Empress has mother Isabella of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Frederick Prince of Wales, Frederick Prince of Wales has mother Caroline of Ansbach. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Lothair of France, Lothair of France has mother Gerberga of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Matilda of France, Matilda of France has mother Gerberga of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Fulk IV Count of Anjou, Fulk IV Count of Anjou has mother Ermengarde of Anjou Duchess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Theobald III Count of Champagne, Theobald III Count of Champagne has mother Marie of France Countess of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William of Winchester Lord of Lunenburg, William of Winchester Lord of Lunenburg has mother Matilda of England Duchess of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry III of England, Henry III of England has mother Isabella of Angoul me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Brabant, Margaret of Brabant has mother Margaret of Flanders Duchess of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Lorenzo de Medici, Lorenzo de Medici has mother Lucrezia Tornabuoni. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of Hainault, Isabella of Hainault has mother Margaret I Countess of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Yolanda Latin Empress, Yolanda Latin Empress has mother Margaret I Countess of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William X Duke of Aquitaine, William X Duke of Aquitaine has mother Philippa Countess of Toulouse. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Rudolph of France, Rudolph of France has mother Adelaide of Auxerre born c. 870. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Arnulf II Count of Flanders, Arnulf II Count of Flanders has mother Matilda of Saxony countess of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Pepin of Herstal, Pepin of Herstal has mother Begga. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Leopold II Holy Roman Emperor, Leopold II Holy Roman Emperor has mother Maria Theresa. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand Karl Archduke of Austria Este, Ferdinand Karl Archduke of Austria Este has mother Maria Theresa. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Antoinette, Marie Antoinette has mother Maria Theresa. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mary of Burgundy Duchess of Cleves, Mary of Burgundy Duchess of Cleves has mother Margaret of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of Bourbon, Isabella of Bourbon has mother Agnes of Burgundy Duchess of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Bourbon 1438 1483, Margaret of Bourbon 1438 1483 has mother Agnes of Burgundy Duchess of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John I Duke of Lorraine, John I Duke of Lorraine has mother Marie de Ch tillon 1323 1363. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Albert I Duke of Brunswic L neburg, Albert I Duke of Brunswic L neburg has mother Matilda of Brandenburg Duchess of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Catherine of Valois, Catherine of Valois has mother Isabeau of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles VII of France, Charles VII of France has mother Isabeau of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella Duchess of Lorraine, Isabella Duchess of Lorraine has mother Margaret of the Palatinate. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry V of England, Henry V of England has mother Mary de Bohun. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis Dauphin of France son of Louis XIV, Louis Dauphin of France son of Louis XIV has mother Maria Theresa of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry VI of England, Henry VI of England has mother Catherine of Valois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan the Lame, Joan the Lame has mother Agnes of France Duchess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Odo IV Duke of Burgundy, Odo IV Duke of Burgundy has mother Agnes of France Duchess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anne of Bohemia and Hungary, Anne of Bohemia and Hungary has mother Anne of Foix Candale. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Archduchess Maria Theresa of Austria Este 1817 1886, Archduchess Maria Theresa of Austria Este 1817 1886 has mother Maria Beatrice of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Edward I of England, Edward I of England has mother Eleanor of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Victor Amadeus II of Sardinia, Victor Amadeus II of Sardinia has mother Marie Jeanne Baptiste of Savoy Nemours. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Dirk III Count of Holland, Dirk III Count of Holland has mother Lutgardis of Luxemburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Otto I Duke of Bavaria, Otto I Duke of Bavaria has mother Heilika of Lengenfeld. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie of France Duchess of Bar, Marie of France Duchess of Bar has mother Bonne of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles V of France, Charles V of France has mother Bonne of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis I of Anjou, Louis I of Anjou has mother Bonne of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis Count of  vreux, Louis Count of  vreux has mother Marie of Brabant Queen of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Conrad I of Burgundy, Conrad I of Burgundy has mother Bertha of Swabia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Peter II of Aragon, Peter II of Aragon has mother Sancha of Castile Queen of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elizabeth Woodville, Elizabeth Woodville has mother Jacquetta of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Albert I of Germany, Albert I of Germany has mother Gertrude of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Judith of Habsburg, Judith of Habsburg has mother Gertrude of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Clemence of Austria, Clemence of Austria has mother Gertrude of Hohenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Artois, Margaret of Artois has mother Blanche of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles III Duke of Lorraine, Charles III Duke of Lorraine has mother Christina of Denmark. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis XII, Louis XII has mother Marie of Cleves Duchess of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Saint Margaret of Scotland, Saint Margaret of Scotland has mother Agatha wife of Edward the Exile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Afonso II of Portugal, Afonso II of Portugal has mother Dulce of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Richeza of Poland Queen of Sweden, Richeza of Poland Queen of Sweden has mother Salomea of Berg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret Holland Duchess of Clarence, Margaret Holland Duchess of Clarence has mother Alice Holland Countess of Kent. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Bavaria, Margaret of Bavaria has mother Margaret of Brieg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Ferdinand Duke of Berry, Charles Ferdinand Duke of Berry has mother Maria Theresa of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Jacquetta of Luxembourg, Jacquetta of Luxembourg has mother Margaret of Baux. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francesco I de Medici Grand Duke of Tuscany, Francesco I de Medici Grand Duke of Tuscany has mother Eleanor of Toledo. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis Duke of Savoy, Louis Duke of Savoy has mother Mary of Burgundy Duchess of Savoy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Amalia of Saxony, Maria Amalia of Saxony has mother Maria Josepha of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Josepha of Saxony Dauphine of France, Maria Josepha of Saxony Dauphine of France has mother Maria Josepha of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry the Middle Duke of Brunswic L neburg, Henry the Middle Duke of Brunswic L neburg has mother Anna of Nassau Dillenburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Simon I Duke of Lorraine, Simon I Duke of Lorraine has mother Hedwig of Formbach. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+George Duke of Brunswic Calenberg, George Duke of Brunswic Calenberg has mother Dorothea of Denmark Duchess of Brunswic L neburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alfonso XI of Castile, Alfonso XI of Castile has mother Constance of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles the Fat, Charles the Fat has mother Hemma. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Peter I of Portugal, Peter I of Portugal has mother Beatrice of Castile 1293 1359. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Afonso III of Portugal, Afonso III of Portugal has mother Urraca of Castile Queen of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mary Queen of Scots, Mary Queen of Scots has mother Mary of Guise. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ernest Duke of Austria, Ernest Duke of Austria has mother Viridis Visconti. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Martel, Charles Martel has mother Alpaida. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anne of Kiev, Anne of Kiev has mother Ingegerd Olofsdotter of Sweden. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Leopold Duke of Lorraine, Leopold Duke of Lorraine has mother Eleonore of Austria Queen of Poland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie of Cleves Duchess of Orl ans, Marie of Cleves Duchess of Orl ans has mother Mary of Burgundy Duchess of Cleves. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis VIII of France, Louis VIII of France has mother Isabella of Hainault. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Liudolf Margrave of Frisia, Liudolf Margrave of Frisia has mother Gisela of Swabia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry son of Robert I of Burgundy, Henry son of Robert I of Burgundy has mother Helie of Semur. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henrietta of England, Henrietta of England has mother Henrietta Maria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis VI of France, Louis VI of France has mother Bertha of Holland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Anjou, Margaret of Anjou has mother Isabella Duchess of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Landgravine Elisabeth Amalie of Hesse Darmstadt, Landgravine Elisabeth Amalie of Hesse Darmstadt has mother Sophia Eleonore of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry IV of England, Henry IV of England has mother Blanche of Lancaster. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand I of Aragon, Ferdinand I of Aragon has mother Eleanor of Aragon Queen of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John I of Portugal, John I of Portugal has mother Teresa Louren o. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Duchess Helene of Mecklenburg Schwerin, Duchess Helene of Mecklenburg Schwerin has mother Princess Caroline Louise of Saxe Weimar Eisenach. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Odo I Count of Blois, Odo I Count of Blois has mother Luitgarde of Vermandois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of Aragon Queen of France, Isabella of Aragon Queen of France has mother Violant of Hungary. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Infanta Luisa Fernanda Duchess of Montpensier, Infanta Luisa Fernanda Duchess of Montpensier has mother Maria Christina of the Two Sicilies. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Rudolph II of Burgundy, Rudolph II of Burgundy has mother Guilla of Provence. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Clementia of Hungary, Clementia of Hungary has mother Clemence of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Sancho I of Portugal, Sancho I of Portugal has mother Matilda of Savoy Queen of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Lorenzo de Medici Duke of Urbino, Lorenzo de Medici Duke of Urbino has mother Alfonsina Orsini. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anna Maria of Mecklenburg Schwerin, Anna Maria of Mecklenburg Schwerin has mother Anna Maria of Ostfriesland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eleanor of Aragon Queen of Portugal, Eleanor of Aragon Queen of Portugal has mother Eleanor of Alburquerque. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John II of Aragon, John II of Aragon has mother Eleanor of Alburquerque. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William I Count of Hainaut, William I Count of Hainaut has mother Philippa of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Beatrice d Este Duchess of Massa has predecessor Maria Teresa Cybo Malaspina Duchess of Massa, Maria Beatrice d Este Duchess of Massa has mother Maria Teresa Cybo Malaspina Duchess of Massa. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+John I Duke of Brittany has predecessor Alix Duchess of Brittany, John I Duke of Brittany has mother Alix Duchess of Brittany. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Antoine Duke of Lorraine, Antoine Duke of Lorraine has mother Philippa of Guelders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Blanche of Navarre Queen of France, Blanche of Navarre Queen of France has mother Joan II of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry II of Castile, Henry II of Castile has mother Eleanor de Guzm n. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+James III of Scotland, James III of Scotland has mother Mary of Guelders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+James I of Scotland, James I of Scotland has mother Anabella Drummond. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+James IV of Scotland, James IV of Scotland has mother Margaret of Denmark Queen of Scotland. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of Valois Duchess of Bourbon, Isabella of Valois Duchess of Bourbon has mother Mahaut of Ch tillon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Josepha of Austria, Maria Josepha of Austria has mother Wilhelmine Amalie of Brunswick. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Theobald III Count of Blois, Theobald III Count of Blois has mother Ermengarde of Auvergne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry Stuart Lord Darnley, Henry Stuart Lord Darnley has mother Margaret Douglas. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Welf I Duke of Bavaria, Welf I Duke of Bavaria has mother Kunigunde of Altdorf. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis the Stammerer, Louis the Stammerer has mother Ermentrude of Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry I Count of Champagne, Henry I Count of Champagne has mother Matilda of Carinthia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elizabeth of Luxembourg, Elizabeth of Luxembourg has mother Barbara of Cilli. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anne of Brittany, Anne of Brittany has mother Margaret of Foix. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elizabeth of Bohemia 1292 1330, Elizabeth of Bohemia 1292 1330 has mother Judith of Habsburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Theobald I of Navarre, Theobald I of Navarre has mother Blanche of Navarre Countess of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eadgifu of Wessex, Eadgifu of Wessex has mother  lffl d wife of Edward the Elder. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Robert II Count of Dreux, Robert II Count of Dreux has mother Agnes de Baudemont Countess of Braine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Otto IV Count of Burgundy, Otto IV Count of Burgundy has mother Adelaide Countess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William I Count of Burgundy, William I Count of Burgundy has mother Alice of Normandy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Edward King of Portugal, Edward King of Portugal has mother Philippa of Lancaster. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan of  vreux, Joan of  vreux has mother Margaret of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip III of Navarre, Philip III of Navarre has mother Margaret of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Yolanda of Courtenay, Yolanda of Courtenay has mother Yolanda Latin Empress. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin III Count of Flanders, Baldwin III Count of Flanders has mother Adele of Vermandois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alfonso II of Aragon has predecessor Petronilla of Aragon, Alfonso II of Aragon has mother Petronilla of Aragon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Pepin the Short, Pepin the Short has mother Rotrude of Hesbaye. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip IV of Spain, Philip IV of Spain has mother Margaret of Austria Queen of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Rudolph Duke of Lorraine, Rudolph Duke of Lorraine has mother Elisabeth of Austria Duchess of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Caroline of Bourbo Two Sicilies Duchess of Berry, Marie Caroline of Bourbo Two Sicilies Duchess of Berry has mother Archduchess Maria Clementina of Austria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Judith of Bavaria died 843, Judith of Bavaria died 843 has mother Hedwig of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hemma, Hemma has mother Hedwig of Bavaria. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Napoleon II, Napoleon II has mother Marie Louise Duchess of Parma. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabel of Barcelos, Isabel of Barcelos has mother Beatriz Pereira de Alvim. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry the Lion, Henry the Lion has mother Gertrude of S pplingenburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ermentrude of Orl ans, Ermentrude of Orl ans has mother Engeltrude de F zensac. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of Portugal Queen of Castile, Isabella of Portugal Queen of Castile has mother Isabel of Barcelos. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Anne Gonzaga, Anne Gonzaga has mother Catherine of Mayenne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elizabeth of Austria 1436 1505, Elizabeth of Austria 1436 1505 has mother Elizabeth of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Countess Palatine Caroline of Zweibr cken, Countess Palatine Caroline of Zweibr cken has mother Countess Caroline of Nassau Saarbr cken. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis the German, Louis the German has mother Ermengarde of Hesbaye. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie of Luxembourg Countess of Vend me, Marie of Luxembourg Countess of Vend me has mother Margaret of Savoy Countess of Saint Pol. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John VII Duke of Mecklenburg Schwerin, John VII Duke of Mecklenburg Schwerin has mother Anna Sophia of Prussia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Yolande of Aragon, Yolande of Aragon has mother Violant of Bar. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hugh II Duke of Burgundy, Hugh II Duke of Burgundy has mother Sibylla of Burgundy Duchess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis II of Anjou, Louis II of Anjou has mother Marie of Blois Duchess of Anjou. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Austria Queen of Spain, Margaret of Austria Queen of Spain has mother Maria Anna of Bavaria born 1551. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Geoffrey Plantagenet Count of Anjou, Geoffrey Plantagenet Count of Anjou has mother Ermengarde Countess of Maine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Sibylla of Anjou, Sibylla of Anjou has mother Ermengarde Countess of Maine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Arnulf I Count of Flanders, Arnulf I Count of Flanders has mother  lfthryth Countess of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mary of Hungary Queen of Naples, Mary of Hungary Queen of Naples has mother Elizabeth the Cuman. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hugh the Great, Hugh the Great has mother Beatrice of Vermandois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elisabeth Farnese, Elisabeth Farnese has mother Countess Palatine Dorothea Sophie of Neuburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William V Duke of Aquitaine, William V Duke of Aquitaine has mother Emma of Blois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Countess Sophia Albertine of Erbach Erbach, Countess Sophia Albertine of Erbach Erbach has mother Countess Amalia Katharina of Waldeck. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+James V of Scotland, James V of Scotland has mother Margaret Tudor. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabeau of Bavaria, Isabeau of Bavaria has mother Taddea Visconti. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Flanders Duchess of Brabant, Margaret of Flanders Duchess of Brabant has mother Matilda of B thune. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie of Brabant Queen of France, Marie of Brabant Queen of France has mother Adelaide of Burgundy Duchess of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elisabeth of Nuremberg, Elisabeth of Nuremberg has mother Elisabeth of Meissen. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Countess of Ponthieu, Marie Countess of Ponthieu has mother Alys of France Countess of Vexin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Christina of the Two Sicilies, Maria Christina of the Two Sicilies has mother Mar a Isabella of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John the Fearless, John the Fearless has mother Margaret III Countess of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Frederick I Duke of Lorraine, Frederick I Duke of Lorraine has mother Bertha Duchess of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry II Duke of Brabant, Henry II Duke of Brabant has mother Matilda of Boulogne Duchess of Brabant. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Otto II Duke of Bavaria, Otto II Duke of Bavaria has mother Ludmilla of Bohemia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Matthias I Duke of Lorraine, Matthias I Duke of Lorraine has mother Adelaide of Leuven. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Catherine of Foix Countess of Candale, Catherine of Foix Countess of Candale has mother Eleanor of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret of Foix, Margaret of Foix has mother Eleanor of Navarre. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry the Fowler, Henry the Fowler has mother Hedwig of Babenberg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Blanche of Burgundy, Blanche of Burgundy has mother Mahaut Countess of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Countess Palatine Dorothea Sophie of Neuburg, Countess Palatine Dorothea Sophie of Neuburg has mother Landgravine Elisabeth Amalie of Hesse Darmstadt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ferdinand II of Aragon, Ferdinand II of Aragon has mother Juana Enr quez. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ramon Berenguer II Count of Barcelona, Ramon Berenguer II Count of Barcelona has mother Almodis de la Marche. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Emmanuel II Duke of Savoy, Charles Emmanuel II Duke of Savoy has mother Christine of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Reginald I Count of Burgundy, Reginald I Count of Burgundy has mother Ermentrude de Roucy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Louis III of France, Louis III of France has mother Ansgarde of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan I of Navarre, Joan I of Navarre has mother Blanche of Artois. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ren  II Duke of Lorraine, Ren  II Duke of Lorraine has mother Yolande Duchess of Lorraine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Victor Amadeus I Duke of Savoy, Victor Amadeus I Duke of Savoy has mother Catalina Micaela of Spain. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles the Simple, Charles the Simple has mother Adelaide of Paris. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mary of Guise, Mary of Guise has mother Antoinette of Bourbon. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eleanor of Aquitaine, Eleanor of Aquitaine has mother A nor de Ch tellerault. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip I of Castile, Philip I of Castile has mother Mary of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Afonso IV of Portugal, Afonso IV of Portugal has mother Elizabeth of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Joan II of Navarre, Joan II of Navarre has mother Margaret of Burgundy Queen of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John of Gaunt, John of Gaunt has mother Philippa of Hainault. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+George II of Great Britain, George II of Great Britain has mother Sophia Dorothea of Celle. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Gertrude of Saxony, Gertrude of Saxony has mother Eilika of Schweinfurt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Princess Augusta of Saxe Gotha, Princess Augusta of Saxe Gotha has mother Princess Magdalena Augusta of Anhalt Zerbst. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Adolphus Frederick I Duke of Mecklenburg Schwerin, Adolphus Frederick I Duke of Mecklenburg Schwerin has mother Sophia of Holstei Gottorp. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Teresa Felicitas d Este, Maria Teresa Felicitas d Este has mother Charlotte Agla  d Orl ans. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin V Count of Flanders, Baldwin V Count of Flanders has mother Ogive of Luxembourg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+William VIII Duke of Aquitaine, William VIII Duke of Aquitaine has mother Agnes of Burgundy Duchess of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Luisa of Parma, Maria Luisa of Parma has mother Louise  lisabeth of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Alfonso X of Castile, Alfonso X of Castile has mother Elisabeth of Swabia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Catherine de Medici, Catherine de Medici has mother Madeleine de La Tour d Auvergne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Beatrice of Savoy, Beatrice of Savoy has mother Margaret of Geneva. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin II Margrave of Flanders, Baldwin II Margrave of Flanders has mother Judith of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Marie Eleonore of Cleves, Marie Eleonore of Cleves has mother Maria of Austria Duchess of J lich Cleves Berg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John II of France, John II of France has mother Joan the Lame. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mary Tudor Queen of France, Mary Tudor Queen of France has mother Elizabeth of York. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charlotte of Mecklenburg Strelitz, Charlotte of Mecklenburg Strelitz has mother Princess Elisabeth Albertine of Saxe Hildburghausen. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Eug nie de Montijo, Eug nie de Montijo has mother Mar a Manuela Kirkpatrick de Grevign e. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Hugh Capet, Hugh Capet has mother Hedwig of Saxony. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Beatrice of Portugal died 1381, Beatrice of Portugal died 1381 has mother In s de Castro. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maria Theresa of Spain, Maria Theresa of Spain has mother Elisabeth of France 1602 1644. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Richard Count of  tampes, Richard Count of  tampes has mother Joan of Navarre Queen of England. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elisabeth Christine of Brunswic Wolfenb ttel, Elisabeth Christine of Brunswic Wolfenb ttel has mother Princess Christine Louise of Oettinge Oettingen. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philippa of Hainault, Philippa of Hainault has mother Joan of Valois Countess of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin III Count of Hainaut, Baldwin III Count of Hainaut has mother Ida Countess of Hainaut. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Magdalene Sibylle of Prussia, Magdalene Sibylle of Prussia has mother Marie Eleonore of Cleves. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Bertha of Burgundy, Bertha of Burgundy has mother Matilda of France. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Princess Louise of Hesse Darmstadt 1757 1830, Princess Louise of Hesse Darmstadt 1757 1830 has mother Countess Palatine Caroline of Zweibr cken. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Berenguer Ramon I Count of Barcelona, Berenguer Ramon I Count of Barcelona has mother Ermesinde of Carcassonne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Isabella of Portugal, Isabella of Portugal has mother Maria of Aragon Queen of Portugal. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles Duke of Vend me, Charles Duke of Vend me has mother Marie of Luxembourg Countess of Vend me. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Margaret Countess of Anjou, Margaret Countess of Anjou has mother Mary of Hungary Queen of Naples. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Odo of France, Odo of France has mother Adelaide of Tours. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Maud Chaworth, Maud Chaworth has mother Isabella de Beauchamp. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Adelaide of Burgundy Duchess of Brabant, Adelaide of Burgundy Duchess of Brabant has mother Yolande of Dreux Duchess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Henry IV of France has predecessor Jeanne d Albret, Henry IV of France has mother Jeanne d Albret. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: yes
+Leopold III Duke of Austria, Leopold III Duke of Austria has mother Joanna of Pfirt. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Galeazzo Maria Sforza, Galeazzo Maria Sforza has mother Bianca Maria Visconti. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+John I Count of Hainaut, John I Count of Hainaut has mother Margaret II Countess of Flanders. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Victor Amadeus III of Sardinia, Victor Amadeus III of Sardinia has mother Polyxena of Hesse Rotenburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Charles the Bold, Charles the Bold has mother Isabella of Portugal Duchess of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Fulk King of Jerusalem, Fulk King of Jerusalem has mother Bertrade of Montfort. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Francis II Duke of Brittany, Francis II Duke of Brittany has mother Margaret Countess of Vertus. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Elisabeth of Meissen, Elisabeth of Meissen has mother Matilda of Bavaria Margravine of Meissen. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Mar a Isabella of Spain, Mar a Isabella of Spain has mother Maria Luisa of Parma. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Willa of Tuscany, Willa of Tuscany has mother Willa of Burgundy. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Jeanne de Bourbon Duchess of Bourbon, Jeanne de Bourbon Duchess of Bourbon has mother Isabelle de Beauvau. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Sophia of Minsk, Sophia of Minsk has mother Richeza of Poland Queen of Sweden. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Frederick III Holy Roman Emperor, Frederick III Holy Roman Emperor has mother Cymburgis of Masovia. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Robert II of France, Robert II of France has mother Adelaide of Aquitaine. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Blanche of Castile, Blanche of Castile has mother Eleanor of England Queen of Castile. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Philip II of France, Philip II of France has mother Adela of Champagne. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Ramon Berenguer IV Count of Provence, Ramon Berenguer IV Count of Provence has mother Garsenda Countess of Forcalquier. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Sophia of Saxe Weissenfels Princess of Anhalt Zerbst, Sophia of Saxe Weissenfels Princess of Anhalt Zerbst has mother Anna Maria of Mecklenburg Schwerin. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Magnus II Duke of Brunswic L neburg, Magnus II Duke of Brunswic L neburg has mother Sophia of Brandenburg. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+Baldwin V Count of Hainaut, Baldwin V Count of Hainaut has mother Alice of Namur. [VALID] The path is classified as NEGATIVE (PCA Confidence 0.4000 < threshold 0.5) Answer: no
+
+Rule Statistics:
+- PCA Confidence: 0.4000
+- Rule Classification: NEGATIVE (PCA Confidence 0.4000 < threshold 0.5)
+- Standard Confidence: 0.0245
+- Head Coverage: 0.0279

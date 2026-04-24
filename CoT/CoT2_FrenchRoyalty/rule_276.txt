@@ -1,0 +1,93 @@
+Rule 276:
+If name ?f AND type ?b, then type ?b.
+
+Formal Rule:
+Head: ?a  type  ?b
+Body: ?a  name  ?f  ?f  type  ?b
+
+Real Instances from Knowledge Graph (78 found):
+
+Maredudd ap Tudur has type Person, Maredudd ap Tudur has name Maredudd ap Tudur, Maredudd ap Tudur has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Lorenzo the Elder has type Person, Lorenzo the Elder has name Lorenzo the Elder, Lorenzo the Elder has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+John of Montfort has type Person, John of Montfort has name John of Montfort, John of Montfort has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Matilda of Frisia has type Person, Matilda of Frisia has name Matilda of Frisia, Matilda of Frisia has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Blanche of Burgundy has type Person, Blanche of Burgundy has name Blanche of Burgundy, Blanche of Burgundy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Blanche of Brittany has type Person, Blanche of Brittany has name Blanche of Brittany, Blanche of Brittany has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Gertrude of Hohenberg has type Person, Gertrude of Hohenberg has name Gertrude of Hohenberg, Gertrude of Hohenberg has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Hugh of Tours has type Person, Hugh of Tours has name Hugh of Tours, Hugh of Tours has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Beatrice of Brandenburg has type Person, Beatrice of Brandenburg has name Beatrice of Brandenburg, Beatrice of Brandenburg has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Mary of Guise has type Person, Mary of Guise has name Mary of Guise, Mary of Guise has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Margaret of the Palatinate has type Person, Margaret of the Palatinate has name Margaret of the Palatinate, Margaret of the Palatinate has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Gerberga of Saxony has type Person, Gerberga of Saxony has name Gerberga of Saxony, Gerberga of Saxony has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Christine of Hesse has type Person, Christine of Hesse has name Christine of Hesse, Christine of Hesse has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Louise of Savoy has type Person, Louise of Savoy has name Louise of Savoy, Louise of Savoy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Gerloc has type Person, Gerloc has name Gerloc, Gerloc has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Adelaide Blanche of Anjou has type Person, Adelaide Blanche of Anjou has name Adelaide Blanche of Anjou, Adelaide Blanche of Anjou has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Giuseppe Maria Buonaparte has type Person, Giuseppe Maria Buonaparte has name Giuseppe Maria Buonaparte, Giuseppe Maria Buonaparte has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Vladimir the Great has type Person, Vladimir the Great has name Vladimir the Great, Vladimir the Great has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Elisabeth Farnese has type Person, Elisabeth Farnese has name Elisabeth Farnese, Elisabeth Farnese has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Margaret of Brabant has type Person, Margaret of Brabant has name Margaret of Brabant, Margaret of Brabant has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Bertha of Burgundy has type Person, Bertha of Burgundy has name Bertha of Burgundy, Bertha of Burgundy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Elizabeth the Cuman has type Person, Elizabeth the Cuman has name Elizabeth the Cuman, Elizabeth the Cuman has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Anna Maria of Mecklenburg Schwerin has type Person, Anna Maria of Mecklenburg Schwerin has name Anna Maria of Mecklenburg Schwerin, Anna Maria of Mecklenburg Schwerin has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Rudolph I of Burgundy has type Person, Rudolph I of Burgundy has name Rudolph I of Burgundy, Rudolph I of Burgundy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Taddea Visconti has type Person, Taddea Visconti has name Taddea Visconti, Taddea Visconti has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Rotrude of Hesbaye has type Person, Rotrude of Hesbaye has name Rotrude of Hesbaye, Rotrude of Hesbaye has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Beatrice of Savoy has type Person, Beatrice of Savoy has name Beatrice of Savoy, Beatrice of Savoy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Charles the Bold has type Person, Charles the Bold has name Charles the Bold, Charles the Bold has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Margaret of Foix has type Person, Margaret of Foix has name Margaret of Foix, Margaret of Foix has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Bertrada of Laon has type Person, Bertrada of Laon has name Bertrada of Laon, Bertrada of Laon has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Isabella de Beauchamp has type Person, Isabella de Beauchamp has name Isabella de Beauchamp, Isabella de Beauchamp has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Sophia of Minsk has type Person, Sophia of Minsk has name Sophia of Minsk, Sophia of Minsk has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Christina of the Two Sicilies has type Person, Maria Christina of the Two Sicilies has name Maria Christina of the Two Sicilies, Maria Christina of the Two Sicilies has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Violant of Hungary has type Person, Violant of Hungary has name Violant of Hungary, Violant of Hungary has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Ermentrude of Orl ans has type Person, Ermentrude of Orl ans has name Ermentrude of Orl ans, Ermentrude of Orl ans has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Rozala of Italy has type Person, Rozala of Italy has name Rozala of Italy, Rozala of Italy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Hugh Magnus has type Person, Hugh Magnus has name Hugh Magnus, Hugh Magnus has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Agnes of Rochlitz has type Person, Agnes of Rochlitz has name Agnes of Rochlitz, Agnes of Rochlitz has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Carlo Buonaparte has type Person, Carlo Buonaparte has name Carlo Buonaparte, Carlo Buonaparte has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Eleanor of Alburquerque has type Person, Eleanor of Alburquerque has name Eleanor of Alburquerque, Eleanor of Alburquerque has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Blanche of Artois has type Person, Blanche of Artois has name Blanche of Artois, Blanche of Artois has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Adelaide of Tours has type Person, Adelaide of Tours has name Adelaide of Tours, Adelaide of Tours has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Matilda of B thune has type Person, Matilda of B thune has name Matilda of B thune, Matilda of B thune has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Amalia of Saxony has type Person, Maria Amalia of Saxony has name Maria Amalia of Saxony, Maria Amalia of Saxony has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Gisela of Burgundy Marchioness of Montferrat, Gisela of Burgundy Marchioness of Montferrat has name Gisela of Burgundy, Gisela of Burgundy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: no
+Adelaide of Italy has type Person, Adelaide of Italy has name Adelaide of Italy, Adelaide of Italy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Matilda of France has type Person, Matilda of France has name Matilda of France, Matilda of France has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Joan the Lame has type Person, Joan the Lame has name Joan the Lame, Joan the Lame has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Margaret of Baux has type Person, Margaret of Baux has name Margaret of Baux, Margaret of Baux has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Letizia Bonaparte has type Person, Letizia Bonaparte has name Letizia Bonaparte, Letizia Bonaparte has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Beatrice of England has type Person, Beatrice of England has name Beatrice of England, Beatrice of England has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Luitgarde of Vermandois has type Person, Luitgarde of Vermandois has name Luitgarde of Vermandois, Luitgarde of Vermandois has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Welf I Duke of Bavaria has type Person, Welf I Duke of Bavaria has name Welf I, Welf I has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Welf father of Judith has type Person, Welf father of Judith has name Welf I, Welf I has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Charles Martel has type Person, Charles Martel has name Charles Martel, Charles Martel has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Luisa of Parma has type Person, Maria Luisa of Parma has name Maria Luisa of Parma, Maria Luisa of Parma has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Luisa of Spain has type Person, Maria Luisa of Spain has name Maria Luisa of Spain, Maria Luisa of Spain has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Salomea of Berg has type Person, Salomea of Berg has name Salomea of Berg, Salomea of Berg has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Margaret of Artois has type Person, Margaret of Artois has name Margaret of Artois, Margaret of Artois has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Adelaide of Maurienne has type Person, Adelaide of Maurienne has name Adelaide of Maurienne, Adelaide of Maurienne has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Beatrice of Savoy has type Person, Maria Beatrice of Savoy has name Maria Beatrice of Savoy, Maria Beatrice of Savoy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Alpaida has type Person, Alpaida has name Alpaida, Alpaida has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Isabella of Valois Duchess of Bourbon, Isabella of Valois Duchess of Bourbon has name Isabella of Valois, Isabella of Valois has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: no
+Anna of Holstei Gottorp has type Person, Anna of Holstei Gottorp has name Anna of Holstei Gottorp, Anna of Holstei Gottorp has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Louis Philippe I Duke of Orl ans has type Person, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Pope has type Person, Pope has name Pope, Pope has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Isabella of Portugal Queen of Castile has type Person, Isabella of Portugal Queen of Castile has name Isabella of Portugal, Isabella of Portugal has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Constance of Arles has type Person, Constance of Arles has name Constance of Arles, Constance of Arles has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Eleanor of Aquitaine has type Person, Eleanor of Aquitaine has name Eleanor of Aquitaine, Eleanor of Aquitaine has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Rurik has type Person, Rurik has name Rurik, Rurik has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Mary of Burgundy Duchess of Cleves has type Person, Mary of Burgundy Duchess of Cleves has name Mary of Burgundy, Mary of Burgundy has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Mahaut of Ch tillon has type Person, Mahaut of Ch tillon has name Mahaut of Ch tillon, Mahaut of Ch tillon has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Willa of Tuscany has type Person, Willa of Tuscany has name Willa of Tuscany, Willa of Tuscany has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Pierfrancesco the Elder has type Person, Pierfrancesco the Elder has name Pierfrancesco the Elder, Pierfrancesco the Elder has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Bouchard IV of Avesnes has type Person, Bouchard IV of Avesnes has name Bouchard IV of Avesnes, Bouchard IV of Avesnes has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+James of Avesnes has type Person, James of Avesnes has name James of Avesnes, James of Avesnes has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Charlemagne has type Person, Charlemagne has name Charlemagne, Charlemagne has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Engeltrude de F zensac has type Person, Engeltrude de F zensac has name Engeltrude de F zensac, Engeltrude de F zensac has type Person The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 1.0000
+- Rule Classification: POSITIVE (PCA Confidence 1.0000 >= threshold 0.5)
+- Standard Confidence: 0.9744
+- Head Coverage: 0.0468

@@ -1,0 +1,31 @@
+Rule 127:
+If father ?f AND name ?f, then father ?b.
+
+Formal Rule:
+Head: ?a  father  ?b
+Body: ?a  father  ?f  ?b  name  ?f
+
+Real Instances from Knowledge Graph (16 found):
+
+Bouchard IV of Avesnes has father James of Avesnes, Bouchard IV of Avesnes has father James of Avesnes, James of Avesnes has name James of Avesnes The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Carlo Buonaparte has father Giuseppe Maria Buonaparte, Carlo Buonaparte has father Giuseppe Maria Buonaparte, Giuseppe Maria Buonaparte has name Giuseppe Maria Buonaparte The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Galeazzo Maria Sforza has father Francesco I Sforza, Galeazzo Maria Sforza has father Francesco I Sforza, Francesco I Sforza has name Francesco I Sforza The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Giovanni il Popolano has father Pierfrancesco the Elder, Giovanni il Popolano has father Pierfrancesco the Elder, Pierfrancesco the Elder has name Pierfrancesco the Elder The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+John I Count of Hainaut has father Bouchard IV of Avesnes, John I Count of Hainaut has father Bouchard IV of Avesnes, Bouchard IV of Avesnes has name Bouchard IV of Avesnes The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Odo of France has father Robert the Strong, Odo of France has father Robert the Strong, Robert the Strong has name Robert the Strong The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Robert I of France has father Robert the Strong, Robert I of France has father Robert the Strong, Robert the Strong has name Robert the Strong The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Owen Tudor has father Maredudd ap Tudur, Owen Tudor has father Maredudd ap Tudur, Maredudd ap Tudur has name Maredudd ap Tudur The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Pierfrancesco the Elder has father Lorenzo the Elder, Pierfrancesco the Elder has father Lorenzo the Elder, Lorenzo the Elder has name Lorenzo the Elder The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Reginar II Count of Hainaut has father Reginar Longneck, Reginar II Count of Hainaut has father Reginar Longneck, Reginar Longneck has name Reginar Longneck The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Yaroslav the Wise has father Vladimir the Great, Yaroslav the Wise has father Vladimir the Great, Vladimir the Great has name Vladimir the Great The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Igor of Kiev has father Rurik, Igor of Kiev has father Rurik, Rurik has name Rurik The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Bertrade of Montfort has father Simon I de Montfort, Bertrade of Montfort has father Simon I de Montfort, Simon I de Montfort has name Simon I de Montfort The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Louis the Pious has father Charlemagne, Louis the Pious has father Charlemagne, Charlemagne has name Charlemagne The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Adelaide of Tours has father Hugh of Tours, Adelaide of Tours has father Hugh of Tours, Hugh of Tours has name Hugh of Tours The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Pepin the Short has father Charles Martel, Pepin the Short has father Charles Martel, Charles Martel has name Charles Martel The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 1.0000
+- Rule Classification: POSITIVE (PCA Confidence 1.0000 >= threshold 0.5)
+- Standard Confidence: 1.0000
+- Head Coverage: 0.0285

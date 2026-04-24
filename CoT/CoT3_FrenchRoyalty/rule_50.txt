@@ -1,0 +1,32 @@
+Rule 50:
+If name ?f AND successor ?b, then successor ?b.
+
+Formal Rule:
+Head: ?a  successor  ?b
+Body: ?a  name  ?f  ?f  successor  ?b
+
+Real Instances from Knowledge Graph (17 found):
+
+John of Montfort has successor John IV Duke of Brittany, John of Montfort has name John of Montfort, John of Montfort has successor John IV Duke of Brittany. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Vladimir the Great has successor Yaropolk I of Kiev, Vladimir the Great has name Vladimir the Great, Vladimir the Great has successor Yaropolk I of Kiev. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Vladimir the Great has successor Sviatopolk I of Kiev, Vladimir the Great has name Vladimir the Great, Vladimir the Great has successor Sviatopolk I of Kiev. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Rudolph I of Burgundy has successor Rudolph II of Burgundy, Rudolph I of Burgundy has name Rudolph I of Burgundy, Rudolph I of Burgundy has successor Rudolph II of Burgundy. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Charles the Bold has successor Mary of Burgundy, Charles the Bold has name Charles the Bold, Charles the Bold has successor Mary of Burgundy. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Simon I de Montfort has successor Amaury II de Montfort, Simon I de Montfort has name Simon I de Montfort, Simon I de Montfort has successor Amaury II de Montfort. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Hugh Magnus has successor Henry I of France, Hugh Magnus has name Hugh Magnus, Hugh Magnus has successor Henry I of France. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Adelaide of Italy has successor Willa of Tuscany, Adelaide of Italy has name Adelaide of Italy, Adelaide of Italy has successor Willa of Tuscany. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Charles Martel has successor Pepin the Short, Charles Martel has name Charles Martel, Charles Martel has successor Pepin the Short. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has successor Ferdinand Philippe Duke of Orl ans. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has successor Napoleon III. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has successor Jacques Charles Dupont de l Eure. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Louis Philippe I Duke of Orl ans, Louis Philippe I Duke of Orl ans has name Louis Philippe I, Louis Philippe I has successor French Revolution of 1848. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: no
+Eleanor of Aquitaine has successor John King of England, Eleanor of Aquitaine has name Eleanor of Aquitaine, Eleanor of Aquitaine has successor John King of England. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Rurik has successor Oleg of Novgorod, Rurik has name Rurik, Rurik has successor Oleg of Novgorod. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Willa of Tuscany has successor Gerberga of M con, Willa of Tuscany has name Willa of Tuscany, Willa of Tuscany has successor Gerberga of M con. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+Charlemagne has successor Louis the Pious, Charlemagne has name Charlemagne, Charlemagne has successor Louis the Pious. [VALID] The path is classified as POSITIVE (PCA Confidence 0.7647 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 0.7647
+- Rule Classification: POSITIVE (PCA Confidence 0.7647 >= threshold 0.5)
+- Standard Confidence: 0.7647
+- Head Coverage: 0.0367

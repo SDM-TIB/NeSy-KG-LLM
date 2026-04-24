@@ -1,0 +1,26 @@
+Rule 102:
+If mother ?b AND successor ?a, then predecessor ?b.
+
+Formal Rule:
+Head: ?a  predecessor  ?b
+Body: ?a  mother  ?b  ?b  successor  ?a
+
+Real Instances from Knowledge Graph (11 found):
+
+Claude of France, Claude of France has mother Anne of Brittany, Anne of Brittany has successor Claude of France The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: no
+John King of England has predecessor Eleanor of Aquitaine, John King of England has mother Eleanor of Aquitaine, Eleanor of Aquitaine has successor John King of England The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Joan III Countess of Burgundy has predecessor Joan II Countess of Burgundy, Joan III Countess of Burgundy has mother Joan II Countess of Burgundy, Joan II Countess of Burgundy has successor Joan III Countess of Burgundy The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Joan Countess of Ponthieu has predecessor Marie Countess of Ponthieu, Joan Countess of Ponthieu has mother Marie Countess of Ponthieu, Marie Countess of Ponthieu has successor Joan Countess of Ponthieu The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Charles V Holy Roman Emperor has predecessor Joanna of Castile, Charles V Holy Roman Emperor has mother Joanna of Castile, Joanna of Castile has successor Charles V Holy Roman Emperor The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Philip VI of France has predecessor Margaret Countess of Anjou, Philip VI of France has mother Margaret Countess of Anjou, Margaret Countess of Anjou has successor Philip VI of France The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Maria Beatrice d Este Duchess of Massa has predecessor Maria Teresa Cybo Malaspina Duchess of Massa, Maria Beatrice d Este Duchess of Massa has mother Maria Teresa Cybo Malaspina Duchess of Massa, Maria Teresa Cybo Malaspina Duchess of Massa has successor Maria Beatrice d Este Duchess of Massa The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+John I Duke of Brittany has predecessor Alix Duchess of Brittany, John I Duke of Brittany has mother Alix Duchess of Brittany, Alix Duchess of Brittany has successor John I Duke of Brittany The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Otto IV Count of Burgundy, Otto IV Count of Burgundy has mother Adelaide Countess of Burgundy, Adelaide Countess of Burgundy has successor Otto IV Count of Burgundy The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: no
+Alfonso II of Aragon has predecessor Petronilla of Aragon, Alfonso II of Aragon has mother Petronilla of Aragon, Petronilla of Aragon has successor Alfonso II of Aragon The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+Henry IV of France has predecessor Jeanne d Albret, Henry IV of France has mother Jeanne d Albret, Jeanne d Albret has successor Henry IV of France The path is classified as POSITIVE (PCA Confidence 1.0000 >= threshold 0.5) Answer: yes
+
+Rule Statistics:
+- PCA Confidence: 1.0000
+- Rule Classification: POSITIVE (PCA Confidence 1.0000 >= threshold 0.5)
+- Standard Confidence: 0.8182
+- Head Coverage: 0.0251
